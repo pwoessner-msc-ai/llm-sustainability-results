@@ -1,0 +1,982 @@
+[
+    {
+        "question_id": "EID_Q1",
+        "question": "I like to spend time outdoors in natural settings (such as woods, mountains, rivers, fields, local parks, lake or beach, or a leafy yard or garden)",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 2,
+            "total_tokens": 153,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q2",
+        "question": "I think of myself as a part of nature, not separate from it.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 2,
+            "total_tokens": 133,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q3",
+        "question": "If I had enough resources such as time or money, I would spend some of them to protect the natural environment.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 2,
+            "total_tokens": 141,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q4",
+        "question": "When I am upset or stressed, I can feel better by spending some time outdoors surrounded by nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 2,
+            "total_tokens": 138,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q5",
+        "question": "I feel that I have a lot in common with wild animals.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 129,
+            "output_tokens": 2,
+            "total_tokens": 131,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q6",
+        "question": "Behaving responsibly toward nature -- living a sustainable lifestyle -- is important to who I am.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 2,
+            "total_tokens": 137,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q7",
+        "question": "Learning about the natural world should be part of everyone's upbringing.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 2,
+            "total_tokens": 133,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q8",
+        "question": "If I could choose, I would prefer to live where I can have a view of the natural environment, such as trees or fields.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 143,
+            "output_tokens": 2,
+            "total_tokens": 145,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q9",
+        "question": "An important part of my life would be missing if I was not able to get outside and enjoy nature from time to time.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 141,
+            "output_tokens": 2,
+            "total_tokens": 143,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q10",
+        "question": "I think elements of the natural world are more beautiful than any work of art.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q11",
+        "question": "I feel refreshed when I spend time in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q12",
+        "question": "I consider myself a steward of our natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 126,
+            "output_tokens": 2,
+            "total_tokens": 128,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q13",
+        "question": "I feel comfortable out in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 123,
+            "output_tokens": 2,
+            "total_tokens": 125,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q14",
+        "question": "I enjoy encountering elements of nature, like trees or grass, even when I am in a city setting.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 2,
+            "total_tokens": 140,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3",
+        "run_id": 5
+    },
+    {
+        "question_id": "EID_Q1",
+        "run_id": 1,
+        "question": "I like to spend time outdoors in natural settings (such as woods, mountains, rivers, fields, local parks, lake or beach, or a leafy yard or garden)",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q2",
+        "run_id": 1,
+        "question": "I think of myself as a part of nature, not separate from it.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q3",
+        "run_id": 1,
+        "question": "If I had enough resources such as time or money, I would spend some of them to protect the natural environment.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 2,
+            "total_tokens": 142,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q4",
+        "run_id": 1,
+        "question": "When I am upset or stressed, I can feel better by spending some time outdoors surrounded by nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 2,
+            "total_tokens": 139,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q5",
+        "run_id": 1,
+        "question": "I feel that I have a lot in common with wild animals.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 2,
+            "total_tokens": 132,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q6",
+        "run_id": 1,
+        "question": "Behaving responsibly toward nature -- living a sustainable lifestyle -- is important to who I am.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 2,
+            "total_tokens": 138,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q7",
+        "run_id": 1,
+        "question": "Learning about the natural world should be part of everyone's upbringing.",
+        "response_content": "7",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q8",
+        "run_id": 1,
+        "question": "If I could choose, I would prefer to live where I can have a view of the natural environment, such as trees or fields.",
+        "response_content": "7",
+        "usage_metadata": {
+            "input_tokens": 144,
+            "output_tokens": 2,
+            "total_tokens": 146,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q9",
+        "run_id": 1,
+        "question": "An important part of my life would be missing if I was not able to get outside and enjoy nature from time to time.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 142,
+            "output_tokens": 2,
+            "total_tokens": 144,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q10",
+        "run_id": 1,
+        "question": "I think elements of the natural world are more beautiful than any work of art.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 2,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q11",
+        "run_id": 1,
+        "question": "I feel refreshed when I spend time in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 128,
+            "output_tokens": 2,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q12",
+        "run_id": 1,
+        "question": "I consider myself a steward of our natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q13",
+        "run_id": 1,
+        "question": "I feel comfortable out in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 2,
+            "total_tokens": 126,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q14",
+        "run_id": 1,
+        "question": "I enjoy encountering elements of nature, like trees or grass, even when I am in a city setting.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 2,
+            "total_tokens": 141,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q1",
+        "run_id": 2,
+        "question": "I like to spend time outdoors in natural settings (such as woods, mountains, rivers, fields, local parks, lake or beach, or a leafy yard or garden)",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q2",
+        "run_id": 2,
+        "question": "I think of myself as a part of nature, not separate from it.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q3",
+        "run_id": 2,
+        "question": "If I had enough resources such as time or money, I would spend some of them to protect the natural environment.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 2,
+            "total_tokens": 142,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q4",
+        "run_id": 2,
+        "question": "When I am upset or stressed, I can feel better by spending some time outdoors surrounded by nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 2,
+            "total_tokens": 139,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q5",
+        "run_id": 2,
+        "question": "I feel that I have a lot in common with wild animals.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 2,
+            "total_tokens": 132,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q6",
+        "run_id": 2,
+        "question": "Behaving responsibly toward nature -- living a sustainable lifestyle -- is important to who I am.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 2,
+            "total_tokens": 138,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q7",
+        "run_id": 2,
+        "question": "Learning about the natural world should be part of everyone's upbringing.",
+        "response_content": "7",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q8",
+        "run_id": 2,
+        "question": "If I could choose, I would prefer to live where I can have a view of the natural environment, such as trees or fields.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 144,
+            "output_tokens": 2,
+            "total_tokens": 146,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q9",
+        "run_id": 2,
+        "question": "An important part of my life would be missing if I was not able to get outside and enjoy nature from time to time.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 142,
+            "output_tokens": 2,
+            "total_tokens": 144,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q10",
+        "run_id": 2,
+        "question": "I think elements of the natural world are more beautiful than any work of art.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 2,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q11",
+        "run_id": 2,
+        "question": "I feel refreshed when I spend time in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 128,
+            "output_tokens": 2,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q12",
+        "run_id": 2,
+        "question": "I consider myself a steward of our natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q13",
+        "run_id": 2,
+        "question": "I feel comfortable out in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 2,
+            "total_tokens": 126,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q14",
+        "run_id": 2,
+        "question": "I enjoy encountering elements of nature, like trees or grass, even when I am in a city setting.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 2,
+            "total_tokens": 141,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q1",
+        "run_id": 3,
+        "question": "I like to spend time outdoors in natural settings (such as woods, mountains, rivers, fields, local parks, lake or beach, or a leafy yard or garden)",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q2",
+        "run_id": 3,
+        "question": "I think of myself as a part of nature, not separate from it.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q3",
+        "run_id": 3,
+        "question": "If I had enough resources such as time or money, I would spend some of them to protect the natural environment.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 2,
+            "total_tokens": 142,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q4",
+        "run_id": 3,
+        "question": "When I am upset or stressed, I can feel better by spending some time outdoors surrounded by nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 2,
+            "total_tokens": 139,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q5",
+        "run_id": 3,
+        "question": "I feel that I have a lot in common with wild animals.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 2,
+            "total_tokens": 132,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q6",
+        "run_id": 3,
+        "question": "Behaving responsibly toward nature -- living a sustainable lifestyle -- is important to who I am.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 2,
+            "total_tokens": 138,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q7",
+        "run_id": 3,
+        "question": "Learning about the natural world should be part of everyone's upbringing.",
+        "response_content": "7",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q8",
+        "run_id": 3,
+        "question": "If I could choose, I would prefer to live where I can have a view of the natural environment, such as trees or fields.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 144,
+            "output_tokens": 2,
+            "total_tokens": 146,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q9",
+        "run_id": 3,
+        "question": "An important part of my life would be missing if I was not able to get outside and enjoy nature from time to time.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 142,
+            "output_tokens": 2,
+            "total_tokens": 144,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q10",
+        "run_id": 3,
+        "question": "I think elements of the natural world are more beautiful than any work of art.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 2,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q11",
+        "run_id": 3,
+        "question": "I feel refreshed when I spend time in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 128,
+            "output_tokens": 2,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q12",
+        "run_id": 3,
+        "question": "I consider myself a steward of our natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q13",
+        "run_id": 3,
+        "question": "I feel comfortable out in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 2,
+            "total_tokens": 126,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q14",
+        "run_id": 3,
+        "question": "I enjoy encountering elements of nature, like trees or grass, even when I am in a city setting.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 2,
+            "total_tokens": 141,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q1",
+        "run_id": 4,
+        "question": "I like to spend time outdoors in natural settings (such as woods, mountains, rivers, fields, local parks, lake or beach, or a leafy yard or garden)",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q2",
+        "run_id": 4,
+        "question": "I think of myself as a part of nature, not separate from it.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q3",
+        "run_id": 4,
+        "question": "If I had enough resources such as time or money, I would spend some of them to protect the natural environment.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 2,
+            "total_tokens": 142,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q4",
+        "run_id": 4,
+        "question": "When I am upset or stressed, I can feel better by spending some time outdoors surrounded by nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 2,
+            "total_tokens": 139,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q5",
+        "run_id": 4,
+        "question": "I feel that I have a lot in common with wild animals.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 2,
+            "total_tokens": 132,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q6",
+        "run_id": 4,
+        "question": "Behaving responsibly toward nature -- living a sustainable lifestyle -- is important to who I am.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 2,
+            "total_tokens": 138,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q7",
+        "run_id": 4,
+        "question": "Learning about the natural world should be part of everyone's upbringing.",
+        "response_content": "7",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 2,
+            "total_tokens": 134,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q8",
+        "run_id": 4,
+        "question": "If I could choose, I would prefer to live where I can have a view of the natural environment, such as trees or fields.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 144,
+            "output_tokens": 2,
+            "total_tokens": 146,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q9",
+        "run_id": 4,
+        "question": "An important part of my life would be missing if I was not able to get outside and enjoy nature from time to time.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 142,
+            "output_tokens": 2,
+            "total_tokens": 144,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q10",
+        "run_id": 4,
+        "question": "I think elements of the natural world are more beautiful than any work of art.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 2,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q11",
+        "run_id": 4,
+        "question": "I feel refreshed when I spend time in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 128,
+            "output_tokens": 2,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q12",
+        "run_id": 4,
+        "question": "I consider myself a steward of our natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q13",
+        "run_id": 4,
+        "question": "I feel comfortable out in nature.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 2,
+            "total_tokens": 126,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    },
+    {
+        "question_id": "EID_Q14",
+        "run_id": 4,
+        "question": "I enjoy encountering elements of nature, like trees or grass, even when I am in a city setting.",
+        "response_content": "6",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 2,
+            "total_tokens": 141,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "mistral-medium-3"
+    }
+]

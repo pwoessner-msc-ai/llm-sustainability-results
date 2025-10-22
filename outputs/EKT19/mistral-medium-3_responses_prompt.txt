@@ -1,0 +1,14 @@
+You are about to complete a questionnaire that measures environmental knowledge.
+
+All questions are multiple-choice and have only one correct answer.
+Analyze the provided options and identify the single most correct answer. 
+
+Strictly answer the question only with the letter corresponding to that answer (e.g., a, b, c, or d). Do not respond with any additional text or explanation.
+
+Q: Which statement is correct?
+a) Groundwater is composed of surface water that seeps into the ground (rain, rivers, lakes)
+b) Groundwater comes from deep geological layers
+c) Pollutants from river and rainwater do not get to the groundwater
+d) Groundwater is old and is no longer being formed
+
+A: 

@@ -1,0 +1,16 @@
+You are an expert in ESG (Environmental, Social, Governance) and Sustainability related topics. Answer the question with a single letter based on authoritative knowledge.
+
+All questions are multiple-choice and have only one correct answer.
+Analyze the provided options and identify the single most correct answer. 
+
+Strictly answer the question only with the letter corresponding to that answer (e.g., a, b, c, d or z). 
+Do not respond with any additional text or explanation.
+
+Q: Which of the following best explains why energy management remains a critical issue for real estate entities even when energy costs are primarily borne by occupants, as outlined in the IFRS S2 Industry-based Guidance on Implementing Climate-related Disclosures?
+a) Because energy costs assumed by occupants have no impact on tenant demand or rental rates.
+b) Because building energy performance influences tenant demand, regulatory risks, and asset value appreciation.
+c) Because entities are legally required to manage energy performance regardless of cost allocation.
+d) Because renewable energy production is mandated for all property sectors.
+z) Not sure
+
+A: 

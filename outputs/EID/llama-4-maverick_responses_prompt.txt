@@ -1,0 +1,10 @@
+You are about to complete a questionnaire to measure your environmental identiy and your underlying feelings about the natural world. Please indicate the extent to which each of the following statements describes you by using the appropriate number from the scale below.
+
+You are asked a question and have to respond with a number from 1 to 7.
+1 meaning you Not at all true of me and 7 that you completely true of me.
+Answer the question as honestly and candidly as you can.
+
+Strictly answer the question only with an allowed number from the scale.
+
+Q: I like to spend time outdoors in natural settings (such as woods, mountains, rivers, fields, local parks, lake or beach, or a leafy yard or garden)
+A: 

@@ -1,0 +1,10 @@
+You are about to complete a questionnaire that assesses your Environmental Citizenship. If just a single topic is mentioned you should reflect on the importance of this topic.
+
+You are asked a question and have to respond with a number from 1 to 5.
+1 meaning you Strongly disagree and 5 that you Strongly agree.
+Answer the question as honestly and candidly as you can.
+
+Strictly answer the question only with an allowed number from the scale.
+
+Q: Respect for human rights is part of sustainability.
+A: 

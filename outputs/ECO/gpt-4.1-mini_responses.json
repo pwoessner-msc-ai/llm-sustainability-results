@@ -1,0 +1,3802 @@
+[
+    {
+        "question_id": "ECO_Q1",
+        "question": "Respect for human rights is part of sustainability.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q2",
+        "question": "Companies that treat their employees badly are unsustainable.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q3",
+        "question": "In a sustainable world, goods and means are distributed fairly across people.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q4",
+        "question": "In a sustainable world, poverty does not exist.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q5",
+        "question": "I would like to learn how problems related to sustainability originate.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q6",
+        "question": "I would like to be involved in finding solutions for environmental problems.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q7",
+        "question": "I would like to learn how I can live more sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q8",
+        "question": "People should worry more about protecting the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q9",
+        "question": "When I hear something about sustainability, I know how to find out whether it is true or not.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q10",
+        "question": "I can make an estimate whether a source with information about sustainability is trustworthy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q11",
+        "question": "I am able to empathize with opinions about sustainability that are different from my own.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 119,
+            "output_tokens": 2,
+            "total_tokens": 121,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q12",
+        "question": "I am able to explain why groups of people have a certain opinion about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 2,
+            "total_tokens": 120,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q13",
+        "question": "I am able to let someone finish speaking.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q14",
+        "question": "I am able to listen to reasons why others choose something else.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q15",
+        "question": "If I sense that I am wrong, I can admit this.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q16",
+        "question": "In a discussion, I would like to find out where we agree and where we disagree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q17",
+        "question": "In a discussion, I am prepared to find a solution with which we can both agree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q18",
+        "question": "I am able to defend my opinion if I am truly right.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q19",
+        "question": "I am able to stand my ground for my opinion.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q20",
+        "question": "In a discussion, I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q21",
+        "question": "I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q22",
+        "question": "How I can ensure that something concerning sustainability changes in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q23",
+        "question": "How I can ensure that something concerning sustainability changes in the Netherlands.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q24",
+        "question": "Environmental issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q25",
+        "question": "Inequality in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q26",
+        "question": "Human rights.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q27",
+        "question": "How sustainable my life style is.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q28",
+        "question": "With my friends I ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q29",
+        "question": "With my friends I ... talk about my impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q30",
+        "question": "At home we ... talk about our impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q31",
+        "question": "At home we ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q32",
+        "question": "Environmental problems are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q33",
+        "question": "Environmental problems are complex.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q34",
+        "question": "Problems related to sustainability do not have an easy solution.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q35",
+        "question": "Problems associated with the distribution of food are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q36",
+        "question": "Sustainability issues are caused by people being egoistic.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q37",
+        "question": "Sustainability issues still exist because people do not want to change.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q38",
+        "question": "Sustainability issues still exist because the government does not do enough about them.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini",
+        "run_id": 5
+    },
+    {
+        "question_id": "ECO_Q1",
+        "run_id": 1,
+        "question": "Respect for human rights is part of sustainability.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q2",
+        "run_id": 1,
+        "question": "Companies that treat their employees badly are unsustainable.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q3",
+        "run_id": 1,
+        "question": "In a sustainable world, goods and means are distributed fairly across people.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q4",
+        "run_id": 1,
+        "question": "In a sustainable world, poverty does not exist.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q5",
+        "run_id": 1,
+        "question": "I would like to learn how problems related to sustainability originate.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q6",
+        "run_id": 1,
+        "question": "I would like to be involved in finding solutions for environmental problems.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q7",
+        "run_id": 1,
+        "question": "I would like to learn how I can live more sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q8",
+        "run_id": 1,
+        "question": "People should worry more about protecting the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q9",
+        "run_id": 1,
+        "question": "When I hear something about sustainability, I know how to find out whether it is true or not.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q10",
+        "run_id": 1,
+        "question": "I can make an estimate whether a source with information about sustainability is trustworthy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q11",
+        "run_id": 1,
+        "question": "I am able to empathize with opinions about sustainability that are different from my own.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 119,
+            "output_tokens": 2,
+            "total_tokens": 121,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q12",
+        "run_id": 1,
+        "question": "I am able to explain why groups of people have a certain opinion about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 2,
+            "total_tokens": 120,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q13",
+        "run_id": 1,
+        "question": "I am able to let someone finish speaking.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q14",
+        "run_id": 1,
+        "question": "I am able to listen to reasons why others choose something else.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q15",
+        "run_id": 1,
+        "question": "If I sense that I am wrong, I can admit this.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q16",
+        "run_id": 1,
+        "question": "In a discussion, I would like to find out where we agree and where we disagree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q17",
+        "run_id": 1,
+        "question": "In a discussion, I am prepared to find a solution with which we can both agree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q18",
+        "run_id": 1,
+        "question": "I am able to defend my opinion if I am truly right.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q19",
+        "run_id": 1,
+        "question": "I am able to stand my ground for my opinion.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q20",
+        "run_id": 1,
+        "question": "In a discussion, I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q21",
+        "run_id": 1,
+        "question": "I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q22",
+        "run_id": 1,
+        "question": "How I can ensure that something concerning sustainability changes in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q23",
+        "run_id": 1,
+        "question": "How I can ensure that something concerning sustainability changes in the Netherlands.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q24",
+        "run_id": 1,
+        "question": "Environmental issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q25",
+        "run_id": 1,
+        "question": "Inequality in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q26",
+        "run_id": 1,
+        "question": "Human rights.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q27",
+        "run_id": 1,
+        "question": "How sustainable my life style is.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q28",
+        "run_id": 1,
+        "question": "With my friends I ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q29",
+        "run_id": 1,
+        "question": "With my friends I ... talk about my impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q30",
+        "run_id": 1,
+        "question": "At home we ... talk about our impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q31",
+        "run_id": 1,
+        "question": "At home we ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q32",
+        "run_id": 1,
+        "question": "Environmental problems are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q33",
+        "run_id": 1,
+        "question": "Environmental problems are complex.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q34",
+        "run_id": 1,
+        "question": "Problems related to sustainability do not have an easy solution.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q35",
+        "run_id": 1,
+        "question": "Problems associated with the distribution of food are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q36",
+        "run_id": 1,
+        "question": "Sustainability issues are caused by people being egoistic.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q37",
+        "run_id": 1,
+        "question": "Sustainability issues still exist because people do not want to change.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q38",
+        "run_id": 1,
+        "question": "Sustainability issues still exist because the government does not do enough about them.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q1",
+        "run_id": 2,
+        "question": "Respect for human rights is part of sustainability.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q2",
+        "run_id": 2,
+        "question": "Companies that treat their employees badly are unsustainable.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q3",
+        "run_id": 2,
+        "question": "In a sustainable world, goods and means are distributed fairly across people.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q4",
+        "run_id": 2,
+        "question": "In a sustainable world, poverty does not exist.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q5",
+        "run_id": 2,
+        "question": "I would like to learn how problems related to sustainability originate.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q6",
+        "run_id": 2,
+        "question": "I would like to be involved in finding solutions for environmental problems.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q7",
+        "run_id": 2,
+        "question": "I would like to learn how I can live more sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q8",
+        "run_id": 2,
+        "question": "People should worry more about protecting the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q9",
+        "run_id": 2,
+        "question": "When I hear something about sustainability, I know how to find out whether it is true or not.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q10",
+        "run_id": 2,
+        "question": "I can make an estimate whether a source with information about sustainability is trustworthy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q11",
+        "run_id": 2,
+        "question": "I am able to empathize with opinions about sustainability that are different from my own.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 119,
+            "output_tokens": 2,
+            "total_tokens": 121,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q12",
+        "run_id": 2,
+        "question": "I am able to explain why groups of people have a certain opinion about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 2,
+            "total_tokens": 120,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q13",
+        "run_id": 2,
+        "question": "I am able to let someone finish speaking.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q14",
+        "run_id": 2,
+        "question": "I am able to listen to reasons why others choose something else.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q15",
+        "run_id": 2,
+        "question": "If I sense that I am wrong, I can admit this.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q16",
+        "run_id": 2,
+        "question": "In a discussion, I would like to find out where we agree and where we disagree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q17",
+        "run_id": 2,
+        "question": "In a discussion, I am prepared to find a solution with which we can both agree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q18",
+        "run_id": 2,
+        "question": "I am able to defend my opinion if I am truly right.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q19",
+        "run_id": 2,
+        "question": "I am able to stand my ground for my opinion.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q20",
+        "run_id": 2,
+        "question": "In a discussion, I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q21",
+        "run_id": 2,
+        "question": "I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q22",
+        "run_id": 2,
+        "question": "How I can ensure that something concerning sustainability changes in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q23",
+        "run_id": 2,
+        "question": "How I can ensure that something concerning sustainability changes in the Netherlands.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q24",
+        "run_id": 2,
+        "question": "Environmental issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q25",
+        "run_id": 2,
+        "question": "Inequality in the world.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q26",
+        "run_id": 2,
+        "question": "Human rights.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q27",
+        "run_id": 2,
+        "question": "How sustainable my life style is.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q28",
+        "run_id": 2,
+        "question": "With my friends I ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q29",
+        "run_id": 2,
+        "question": "With my friends I ... talk about my impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q30",
+        "run_id": 2,
+        "question": "At home we ... talk about our impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q31",
+        "run_id": 2,
+        "question": "At home we ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q32",
+        "run_id": 2,
+        "question": "Environmental problems are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q33",
+        "run_id": 2,
+        "question": "Environmental problems are complex.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q34",
+        "run_id": 2,
+        "question": "Problems related to sustainability do not have an easy solution.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q35",
+        "run_id": 2,
+        "question": "Problems associated with the distribution of food are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q36",
+        "run_id": 2,
+        "question": "Sustainability issues are caused by people being egoistic.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q37",
+        "run_id": 2,
+        "question": "Sustainability issues still exist because people do not want to change.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q38",
+        "run_id": 2,
+        "question": "Sustainability issues still exist because the government does not do enough about them.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q1",
+        "run_id": 3,
+        "question": "Respect for human rights is part of sustainability.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q2",
+        "run_id": 3,
+        "question": "Companies that treat their employees badly are unsustainable.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q3",
+        "run_id": 3,
+        "question": "In a sustainable world, goods and means are distributed fairly across people.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q4",
+        "run_id": 3,
+        "question": "In a sustainable world, poverty does not exist.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q5",
+        "run_id": 3,
+        "question": "I would like to learn how problems related to sustainability originate.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q6",
+        "run_id": 3,
+        "question": "I would like to be involved in finding solutions for environmental problems.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q7",
+        "run_id": 3,
+        "question": "I would like to learn how I can live more sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q8",
+        "run_id": 3,
+        "question": "People should worry more about protecting the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q9",
+        "run_id": 3,
+        "question": "When I hear something about sustainability, I know how to find out whether it is true or not.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q10",
+        "run_id": 3,
+        "question": "I can make an estimate whether a source with information about sustainability is trustworthy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q11",
+        "run_id": 3,
+        "question": "I am able to empathize with opinions about sustainability that are different from my own.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 119,
+            "output_tokens": 2,
+            "total_tokens": 121,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q12",
+        "run_id": 3,
+        "question": "I am able to explain why groups of people have a certain opinion about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 2,
+            "total_tokens": 120,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q13",
+        "run_id": 3,
+        "question": "I am able to let someone finish speaking.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q14",
+        "run_id": 3,
+        "question": "I am able to listen to reasons why others choose something else.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q15",
+        "run_id": 3,
+        "question": "If I sense that I am wrong, I can admit this.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q16",
+        "run_id": 3,
+        "question": "In a discussion, I would like to find out where we agree and where we disagree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q17",
+        "run_id": 3,
+        "question": "In a discussion, I am prepared to find a solution with which we can both agree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q18",
+        "run_id": 3,
+        "question": "I am able to defend my opinion if I am truly right.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q19",
+        "run_id": 3,
+        "question": "I am able to stand my ground for my opinion.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q20",
+        "run_id": 3,
+        "question": "In a discussion, I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q21",
+        "run_id": 3,
+        "question": "I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q22",
+        "run_id": 3,
+        "question": "How I can ensure that something concerning sustainability changes in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q23",
+        "run_id": 3,
+        "question": "How I can ensure that something concerning sustainability changes in the Netherlands.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q24",
+        "run_id": 3,
+        "question": "Environmental issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q25",
+        "run_id": 3,
+        "question": "Inequality in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q26",
+        "run_id": 3,
+        "question": "Human rights.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q27",
+        "run_id": 3,
+        "question": "How sustainable my life style is.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q28",
+        "run_id": 3,
+        "question": "With my friends I ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q29",
+        "run_id": 3,
+        "question": "With my friends I ... talk about my impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q30",
+        "run_id": 3,
+        "question": "At home we ... talk about our impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q31",
+        "run_id": 3,
+        "question": "At home we ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q32",
+        "run_id": 3,
+        "question": "Environmental problems are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q33",
+        "run_id": 3,
+        "question": "Environmental problems are complex.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q34",
+        "run_id": 3,
+        "question": "Problems related to sustainability do not have an easy solution.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q35",
+        "run_id": 3,
+        "question": "Problems associated with the distribution of food are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q36",
+        "run_id": 3,
+        "question": "Sustainability issues are caused by people being egoistic.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q37",
+        "run_id": 3,
+        "question": "Sustainability issues still exist because people do not want to change.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q38",
+        "run_id": 3,
+        "question": "Sustainability issues still exist because the government does not do enough about them.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q1",
+        "run_id": 4,
+        "question": "Respect for human rights is part of sustainability.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q2",
+        "run_id": 4,
+        "question": "Companies that treat their employees badly are unsustainable.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q3",
+        "run_id": 4,
+        "question": "In a sustainable world, goods and means are distributed fairly across people.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q4",
+        "run_id": 4,
+        "question": "In a sustainable world, poverty does not exist.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q5",
+        "run_id": 4,
+        "question": "I would like to learn how problems related to sustainability originate.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q6",
+        "run_id": 4,
+        "question": "I would like to be involved in finding solutions for environmental problems.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q7",
+        "run_id": 4,
+        "question": "I would like to learn how I can live more sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q8",
+        "run_id": 4,
+        "question": "People should worry more about protecting the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q9",
+        "run_id": 4,
+        "question": "When I hear something about sustainability, I know how to find out whether it is true or not.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q10",
+        "run_id": 4,
+        "question": "I can make an estimate whether a source with information about sustainability is trustworthy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q11",
+        "run_id": 4,
+        "question": "I am able to empathize with opinions about sustainability that are different from my own.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 119,
+            "output_tokens": 2,
+            "total_tokens": 121,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q12",
+        "run_id": 4,
+        "question": "I am able to explain why groups of people have a certain opinion about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 2,
+            "total_tokens": 120,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q13",
+        "run_id": 4,
+        "question": "I am able to let someone finish speaking.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q14",
+        "run_id": 4,
+        "question": "I am able to listen to reasons why others choose something else.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q15",
+        "run_id": 4,
+        "question": "If I sense that I am wrong, I can admit this.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q16",
+        "run_id": 4,
+        "question": "In a discussion, I would like to find out where we agree and where we disagree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q17",
+        "run_id": 4,
+        "question": "In a discussion, I am prepared to find a solution with which we can both agree.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q18",
+        "run_id": 4,
+        "question": "I am able to defend my opinion if I am truly right.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q19",
+        "run_id": 4,
+        "question": "I am able to stand my ground for my opinion.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q20",
+        "run_id": 4,
+        "question": "In a discussion, I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q21",
+        "run_id": 4,
+        "question": "I am able to explain what my opinion is.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q22",
+        "run_id": 4,
+        "question": "How I can ensure that something concerning sustainability changes in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q23",
+        "run_id": 4,
+        "question": "How I can ensure that something concerning sustainability changes in the Netherlands.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q24",
+        "run_id": 4,
+        "question": "Environmental issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q25",
+        "run_id": 4,
+        "question": "Inequality in the world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q26",
+        "run_id": 4,
+        "question": "Human rights.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q27",
+        "run_id": 4,
+        "question": "How sustainable my life style is.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q28",
+        "run_id": 4,
+        "question": "With my friends I ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q29",
+        "run_id": 4,
+        "question": "With my friends I ... talk about my impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q30",
+        "run_id": 4,
+        "question": "At home we ... talk about our impact on the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q31",
+        "run_id": 4,
+        "question": "At home we ... talk about sustainability.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q32",
+        "run_id": 4,
+        "question": "Environmental problems are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q33",
+        "run_id": 4,
+        "question": "Environmental problems are complex.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q34",
+        "run_id": 4,
+        "question": "Problems related to sustainability do not have an easy solution.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q35",
+        "run_id": 4,
+        "question": "Problems associated with the distribution of food are difficult.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q36",
+        "run_id": 4,
+        "question": "Sustainability issues are caused by people being egoistic.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q37",
+        "run_id": 4,
+        "question": "Sustainability issues still exist because people do not want to change.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    },
+    {
+        "question_id": "ECO_Q38",
+        "run_id": 4,
+        "question": "Sustainability issues still exist because the government does not do enough about them.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        },
+        "model_name": "gpt-4.1-mini"
+    }
+]

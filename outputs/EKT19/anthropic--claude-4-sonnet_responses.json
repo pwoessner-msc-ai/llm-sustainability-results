@@ -1,0 +1,1802 @@
+[
+    {
+        "question_id": "EKT19_Q1",
+        "run_id": 5,
+        "question": "Which statement is correct?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 167,
+            "output_tokens": 4,
+            "total_tokens": 171
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q2",
+        "run_id": 5,
+        "question": "What causes wind?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q3",
+        "run_id": 5,
+        "question": "On average, how long does it take to form 10cm of fertile soil?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 4,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q4",
+        "run_id": 5,
+        "question": "What is an ecological niche?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 4,
+            "total_tokens": 159
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q5",
+        "run_id": 5,
+        "question": "Which of the following aspects is not a part of biodiversity?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 4,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q6",
+        "run_id": 5,
+        "question": "Which of the following phenomena has been the main cause of climate change over the last 20 years? Original wording: global warming]",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 190,
+            "output_tokens": 4,
+            "total_tokens": 194
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q7",
+        "run_id": 5,
+        "question": "What is the meaning of the abbreviation CO2?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 4,
+            "total_tokens": 131
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q8",
+        "run_id": 5,
+        "question": "Which energy form is a renewable form of energy?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q9",
+        "run_id": 5,
+        "question": "Which natural phenomenon is not attributed to climate change?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q10",
+        "run_id": 5,
+        "question": "Which action does not help reduce the greenhouse effect?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 4,
+            "total_tokens": 160
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q11",
+        "run_id": 5,
+        "question": "International environmental experts have identified 9 factors that are crucial for the Earth's system stability. Which factor's limit has been exceeded?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q12",
+        "run_id": 5,
+        "question": "For which material does recycling save the most energy in comparison to new production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 4,
+            "total_tokens": 134
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q13",
+        "run_id": 5,
+        "question": "Which food requires the most water for production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q14",
+        "run_id": 5,
+        "question": "What was the original principle of sustainability?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 4,
+            "total_tokens": 152
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q15",
+        "run_id": 5,
+        "question": "What does the carbon footprint of a product mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 4,
+            "total_tokens": 182
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q16",
+        "run_id": 5,
+        "question": "Which action does not help to save energy costs in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 191,
+            "output_tokens": 4,
+            "total_tokens": 195
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q17",
+        "run_id": 5,
+        "question": "Which type of transport produces the least amount of emissions per passenger and kilometre in short distance traffic? (Please assume car, bus and motorcycle are fossil-fuel powered)",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 4,
+            "total_tokens": 155
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q18",
+        "run_id": 5,
+        "question": "Which illuminant has the highest energy efficiency (the highest luman/watt)?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 146,
+            "output_tokens": 4,
+            "total_tokens": 150
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q19",
+        "run_id": 5,
+        "question": "Which of the following beverage packaging is the most harmful the environment?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q20",
+        "run_id": 5,
+        "question": "An average household consumes the most energy for...",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 4,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q21",
+        "run_id": 5,
+        "question": "In which of the following domains is the most water consumed in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 4,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q22",
+        "run_id": 5,
+        "question": "For the same amount of calories, meat is...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q23",
+        "run_id": 5,
+        "question": "Which organisation is not mainly concerned with environmental issues?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 143,
+            "output_tokens": 4,
+            "total_tokens": 147
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q24",
+        "run_id": 5,
+        "question": "What is the Kyoto Protocol?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 168,
+            "output_tokens": 4,
+            "total_tokens": 172
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q25",
+        "run_id": 5,
+        "question": "What does Greenwashing mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 165,
+            "output_tokens": 4,
+            "total_tokens": 169
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q26",
+        "run_id": 5,
+        "question": "Which of the following are included in corporate social responsibility (CSR)?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 4,
+            "total_tokens": 153
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q27",
+        "run_id": 5,
+        "question": "What is the main pollutant of ground water?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q28",
+        "run_id": 5,
+        "question": "Which item has to be disposed as hazardous waste?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q29",
+        "run_id": 5,
+        "question": "Detergents and cleansers should be used as sparsely as possible, because...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q30",
+        "run_id": 5,
+        "question": "The world's biggest continuous floating garbage patch (the great ocean garbage patch) is located in which ocean?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 4,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q1",
+        "run_id": 1,
+        "question": "Which statement is correct?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 167,
+            "output_tokens": 4,
+            "total_tokens": 171
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q2",
+        "run_id": 1,
+        "question": "What causes wind?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q3",
+        "run_id": 1,
+        "question": "On average, how long does it take to form 10cm of fertile soil?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 4,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q4",
+        "run_id": 1,
+        "question": "What is an ecological niche?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 4,
+            "total_tokens": 159
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q5",
+        "run_id": 1,
+        "question": "Which of the following aspects is not a part of biodiversity?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 4,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q6",
+        "run_id": 1,
+        "question": "Which of the following phenomena has been the main cause of climate change over the last 20 years? Original wording: global warming]",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 190,
+            "output_tokens": 4,
+            "total_tokens": 194
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q7",
+        "run_id": 1,
+        "question": "What is the meaning of the abbreviation CO2?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 4,
+            "total_tokens": 131
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q8",
+        "run_id": 1,
+        "question": "Which energy form is a renewable form of energy?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q9",
+        "run_id": 1,
+        "question": "Which natural phenomenon is not attributed to climate change?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q10",
+        "run_id": 1,
+        "question": "Which action does not help reduce the greenhouse effect?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 4,
+            "total_tokens": 160
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q11",
+        "run_id": 1,
+        "question": "International environmental experts have identified 9 factors that are crucial for the Earth's system stability. Which factor's limit has been exceeded?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q12",
+        "run_id": 1,
+        "question": "For which material does recycling save the most energy in comparison to new production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 4,
+            "total_tokens": 134
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q13",
+        "run_id": 1,
+        "question": "Which food requires the most water for production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q14",
+        "run_id": 1,
+        "question": "What was the original principle of sustainability?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 4,
+            "total_tokens": 152
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q15",
+        "run_id": 1,
+        "question": "What does the carbon footprint of a product mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 4,
+            "total_tokens": 182
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q16",
+        "run_id": 1,
+        "question": "Which action does not help to save energy costs in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 191,
+            "output_tokens": 4,
+            "total_tokens": 195
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q17",
+        "run_id": 1,
+        "question": "Which type of transport produces the least amount of emissions per passenger and kilometre in short distance traffic? (Please assume car, bus and motorcycle are fossil-fuel powered)",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 4,
+            "total_tokens": 155
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q18",
+        "run_id": 1,
+        "question": "Which illuminant has the highest energy efficiency (the highest luman/watt)?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 146,
+            "output_tokens": 4,
+            "total_tokens": 150
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q19",
+        "run_id": 1,
+        "question": "Which of the following beverage packaging is the most harmful the environment?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q20",
+        "run_id": 1,
+        "question": "An average household consumes the most energy for...",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 4,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q21",
+        "run_id": 1,
+        "question": "In which of the following domains is the most water consumed in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 4,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q22",
+        "run_id": 1,
+        "question": "For the same amount of calories, meat is...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q23",
+        "run_id": 1,
+        "question": "Which organisation is not mainly concerned with environmental issues?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 143,
+            "output_tokens": 4,
+            "total_tokens": 147
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q24",
+        "run_id": 1,
+        "question": "What is the Kyoto Protocol?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 168,
+            "output_tokens": 4,
+            "total_tokens": 172
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q25",
+        "run_id": 1,
+        "question": "What does Greenwashing mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 165,
+            "output_tokens": 4,
+            "total_tokens": 169
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q26",
+        "run_id": 1,
+        "question": "Which of the following are included in corporate social responsibility (CSR)?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 4,
+            "total_tokens": 153
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q27",
+        "run_id": 1,
+        "question": "What is the main pollutant of ground water?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q28",
+        "run_id": 1,
+        "question": "Which item has to be disposed as hazardous waste?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q29",
+        "run_id": 1,
+        "question": "Detergents and cleansers should be used as sparsely as possible, because...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q30",
+        "run_id": 1,
+        "question": "The world's biggest continuous floating garbage patch (the great ocean garbage patch) is located in which ocean?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 4,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q1",
+        "run_id": 2,
+        "question": "Which statement is correct?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 167,
+            "output_tokens": 4,
+            "total_tokens": 171
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q2",
+        "run_id": 2,
+        "question": "What causes wind?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q3",
+        "run_id": 2,
+        "question": "On average, how long does it take to form 10cm of fertile soil?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 4,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q4",
+        "run_id": 2,
+        "question": "What is an ecological niche?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 4,
+            "total_tokens": 159
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q5",
+        "run_id": 2,
+        "question": "Which of the following aspects is not a part of biodiversity?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 4,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q6",
+        "run_id": 2,
+        "question": "Which of the following phenomena has been the main cause of climate change over the last 20 years? Original wording: global warming]",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 190,
+            "output_tokens": 4,
+            "total_tokens": 194
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q7",
+        "run_id": 2,
+        "question": "What is the meaning of the abbreviation CO2?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 4,
+            "total_tokens": 131
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q8",
+        "run_id": 2,
+        "question": "Which energy form is a renewable form of energy?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q9",
+        "run_id": 2,
+        "question": "Which natural phenomenon is not attributed to climate change?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q10",
+        "run_id": 2,
+        "question": "Which action does not help reduce the greenhouse effect?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 4,
+            "total_tokens": 160
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q11",
+        "run_id": 2,
+        "question": "International environmental experts have identified 9 factors that are crucial for the Earth's system stability. Which factor's limit has been exceeded?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q12",
+        "run_id": 2,
+        "question": "For which material does recycling save the most energy in comparison to new production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 4,
+            "total_tokens": 134
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q13",
+        "run_id": 2,
+        "question": "Which food requires the most water for production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q14",
+        "run_id": 2,
+        "question": "What was the original principle of sustainability?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 4,
+            "total_tokens": 152
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q15",
+        "run_id": 2,
+        "question": "What does the carbon footprint of a product mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 4,
+            "total_tokens": 182
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q16",
+        "run_id": 2,
+        "question": "Which action does not help to save energy costs in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 191,
+            "output_tokens": 4,
+            "total_tokens": 195
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q17",
+        "run_id": 2,
+        "question": "Which type of transport produces the least amount of emissions per passenger and kilometre in short distance traffic? (Please assume car, bus and motorcycle are fossil-fuel powered)",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 4,
+            "total_tokens": 155
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q18",
+        "run_id": 2,
+        "question": "Which illuminant has the highest energy efficiency (the highest luman/watt)?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 146,
+            "output_tokens": 4,
+            "total_tokens": 150
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q19",
+        "run_id": 2,
+        "question": "Which of the following beverage packaging is the most harmful the environment?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q20",
+        "run_id": 2,
+        "question": "An average household consumes the most energy for...",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 4,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q21",
+        "run_id": 2,
+        "question": "In which of the following domains is the most water consumed in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 4,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q22",
+        "run_id": 2,
+        "question": "For the same amount of calories, meat is...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q23",
+        "run_id": 2,
+        "question": "Which organisation is not mainly concerned with environmental issues?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 143,
+            "output_tokens": 4,
+            "total_tokens": 147
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q24",
+        "run_id": 2,
+        "question": "What is the Kyoto Protocol?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 168,
+            "output_tokens": 4,
+            "total_tokens": 172
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q25",
+        "run_id": 2,
+        "question": "What does Greenwashing mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 165,
+            "output_tokens": 4,
+            "total_tokens": 169
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q26",
+        "run_id": 2,
+        "question": "Which of the following are included in corporate social responsibility (CSR)?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 4,
+            "total_tokens": 153
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q27",
+        "run_id": 2,
+        "question": "What is the main pollutant of ground water?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q28",
+        "run_id": 2,
+        "question": "Which item has to be disposed as hazardous waste?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q29",
+        "run_id": 2,
+        "question": "Detergents and cleansers should be used as sparsely as possible, because...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q30",
+        "run_id": 2,
+        "question": "The world's biggest continuous floating garbage patch (the great ocean garbage patch) is located in which ocean?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 4,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q1",
+        "run_id": 3,
+        "question": "Which statement is correct?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 167,
+            "output_tokens": 4,
+            "total_tokens": 171
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q2",
+        "run_id": 3,
+        "question": "What causes wind?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q3",
+        "run_id": 3,
+        "question": "On average, how long does it take to form 10cm of fertile soil?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 4,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q4",
+        "run_id": 3,
+        "question": "What is an ecological niche?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 4,
+            "total_tokens": 159
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q5",
+        "run_id": 3,
+        "question": "Which of the following aspects is not a part of biodiversity?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 4,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q6",
+        "run_id": 3,
+        "question": "Which of the following phenomena has been the main cause of climate change over the last 20 years? Original wording: global warming]",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 190,
+            "output_tokens": 4,
+            "total_tokens": 194
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q7",
+        "run_id": 3,
+        "question": "What is the meaning of the abbreviation CO2?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 4,
+            "total_tokens": 131
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q8",
+        "run_id": 3,
+        "question": "Which energy form is a renewable form of energy?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q9",
+        "run_id": 3,
+        "question": "Which natural phenomenon is not attributed to climate change?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q10",
+        "run_id": 3,
+        "question": "Which action does not help reduce the greenhouse effect?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 4,
+            "total_tokens": 160
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q11",
+        "run_id": 3,
+        "question": "International environmental experts have identified 9 factors that are crucial for the Earth's system stability. Which factor's limit has been exceeded?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q12",
+        "run_id": 3,
+        "question": "For which material does recycling save the most energy in comparison to new production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 4,
+            "total_tokens": 134
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q13",
+        "run_id": 3,
+        "question": "Which food requires the most water for production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q14",
+        "run_id": 3,
+        "question": "What was the original principle of sustainability?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 4,
+            "total_tokens": 152
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q15",
+        "run_id": 3,
+        "question": "What does the carbon footprint of a product mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 4,
+            "total_tokens": 182
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q16",
+        "run_id": 3,
+        "question": "Which action does not help to save energy costs in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 191,
+            "output_tokens": 4,
+            "total_tokens": 195
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q17",
+        "run_id": 3,
+        "question": "Which type of transport produces the least amount of emissions per passenger and kilometre in short distance traffic? (Please assume car, bus and motorcycle are fossil-fuel powered)",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 4,
+            "total_tokens": 155
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q18",
+        "run_id": 3,
+        "question": "Which illuminant has the highest energy efficiency (the highest luman/watt)?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 146,
+            "output_tokens": 4,
+            "total_tokens": 150
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q19",
+        "run_id": 3,
+        "question": "Which of the following beverage packaging is the most harmful the environment?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q20",
+        "run_id": 3,
+        "question": "An average household consumes the most energy for...",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 4,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q21",
+        "run_id": 3,
+        "question": "In which of the following domains is the most water consumed in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 4,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q22",
+        "run_id": 3,
+        "question": "For the same amount of calories, meat is...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q23",
+        "run_id": 3,
+        "question": "Which organisation is not mainly concerned with environmental issues?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 143,
+            "output_tokens": 4,
+            "total_tokens": 147
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q24",
+        "run_id": 3,
+        "question": "What is the Kyoto Protocol?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 168,
+            "output_tokens": 4,
+            "total_tokens": 172
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q25",
+        "run_id": 3,
+        "question": "What does Greenwashing mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 165,
+            "output_tokens": 4,
+            "total_tokens": 169
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q26",
+        "run_id": 3,
+        "question": "Which of the following are included in corporate social responsibility (CSR)?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 4,
+            "total_tokens": 153
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q27",
+        "run_id": 3,
+        "question": "What is the main pollutant of ground water?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q28",
+        "run_id": 3,
+        "question": "Which item has to be disposed as hazardous waste?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q29",
+        "run_id": 3,
+        "question": "Detergents and cleansers should be used as sparsely as possible, because...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q30",
+        "run_id": 3,
+        "question": "The world's biggest continuous floating garbage patch (the great ocean garbage patch) is located in which ocean?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 4,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q1",
+        "run_id": 4,
+        "question": "Which statement is correct?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 167,
+            "output_tokens": 4,
+            "total_tokens": 171
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q2",
+        "run_id": 4,
+        "question": "What causes wind?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q3",
+        "run_id": 4,
+        "question": "On average, how long does it take to form 10cm of fertile soil?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 140,
+            "output_tokens": 4,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q4",
+        "run_id": 4,
+        "question": "What is an ecological niche?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 4,
+            "total_tokens": 159
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q5",
+        "run_id": 4,
+        "question": "Which of the following aspects is not a part of biodiversity?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 4,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q6",
+        "run_id": 4,
+        "question": "Which of the following phenomena has been the main cause of climate change over the last 20 years? Original wording: global warming]",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 190,
+            "output_tokens": 4,
+            "total_tokens": 194
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q7",
+        "run_id": 4,
+        "question": "What is the meaning of the abbreviation CO2?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 4,
+            "total_tokens": 131
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q8",
+        "run_id": 4,
+        "question": "Which energy form is a renewable form of energy?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q9",
+        "run_id": 4,
+        "question": "Which natural phenomenon is not attributed to climate change?",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 4,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q10",
+        "run_id": 4,
+        "question": "Which action does not help reduce the greenhouse effect?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 4,
+            "total_tokens": 160
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q11",
+        "run_id": 4,
+        "question": "International environmental experts have identified 9 factors that are crucial for the Earth's system stability. Which factor's limit has been exceeded?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q12",
+        "run_id": 4,
+        "question": "For which material does recycling save the most energy in comparison to new production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 4,
+            "total_tokens": 134
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q13",
+        "run_id": 4,
+        "question": "Which food requires the most water for production?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 4,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q14",
+        "run_id": 4,
+        "question": "What was the original principle of sustainability?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 4,
+            "total_tokens": 152
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q15",
+        "run_id": 4,
+        "question": "What does the carbon footprint of a product mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 4,
+            "total_tokens": 182
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q16",
+        "run_id": 4,
+        "question": "Which action does not help to save energy costs in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 191,
+            "output_tokens": 4,
+            "total_tokens": 195
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q17",
+        "run_id": 4,
+        "question": "Which type of transport produces the least amount of emissions per passenger and kilometre in short distance traffic? (Please assume car, bus and motorcycle are fossil-fuel powered)",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 4,
+            "total_tokens": 155
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q18",
+        "run_id": 4,
+        "question": "Which illuminant has the highest energy efficiency (the highest luman/watt)?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 146,
+            "output_tokens": 4,
+            "total_tokens": 150
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q19",
+        "run_id": 4,
+        "question": "Which of the following beverage packaging is the most harmful the environment?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q20",
+        "run_id": 4,
+        "question": "An average household consumes the most energy for...",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 4,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q21",
+        "run_id": 4,
+        "question": "In which of the following domains is the most water consumed in everyday life?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 4,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q22",
+        "run_id": 4,
+        "question": "For the same amount of calories, meat is...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q23",
+        "run_id": 4,
+        "question": "Which organisation is not mainly concerned with environmental issues?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 143,
+            "output_tokens": 4,
+            "total_tokens": 147
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q24",
+        "run_id": 4,
+        "question": "What is the Kyoto Protocol?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 168,
+            "output_tokens": 4,
+            "total_tokens": 172
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q25",
+        "run_id": 4,
+        "question": "What does Greenwashing mean?",
+        "response_content": "b",
+        "usage_metadata": {
+            "input_tokens": 165,
+            "output_tokens": 4,
+            "total_tokens": 169
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q26",
+        "run_id": 4,
+        "question": "Which of the following are included in corporate social responsibility (CSR)?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 4,
+            "total_tokens": 153
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q27",
+        "run_id": 4,
+        "question": "What is the main pollutant of ground water?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 147,
+            "output_tokens": 4,
+            "total_tokens": 151
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q28",
+        "run_id": 4,
+        "question": "Which item has to be disposed as hazardous waste?",
+        "response_content": "c",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 4,
+            "total_tokens": 149
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q29",
+        "run_id": 4,
+        "question": "Detergents and cleansers should be used as sparsely as possible, because...",
+        "response_content": "d",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 4,
+            "total_tokens": 162
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "EKT19_Q30",
+        "run_id": 4,
+        "question": "The world's biggest continuous floating garbage patch (the great ocean garbage patch) is located in which ocean?",
+        "response_content": "a",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 4,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    }
+]

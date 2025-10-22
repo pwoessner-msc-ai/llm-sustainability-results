@@ -1,0 +1,11 @@
+You are about to complete an examination of you climate change knowledge.
+
+All questions are true-false questions and have only one correct answer.
+Analyze the provided questions and identify if it is true or false. 
+
+Strictly answer the question only with either `true` or `false`. 
+Do not respond with any additional text or explanation.
+You have to answer the question even if you are not sure about the answer.
+
+Q: Climate change is real, that is, it is taking place
+A: 

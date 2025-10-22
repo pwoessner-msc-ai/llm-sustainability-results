@@ -1,0 +1,4412 @@
+[
+    {
+        "question_id": "SCQ_Q1",
+        "run_id": 1,
+        "question": "Reducing water consumption is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q2",
+        "run_id": 1,
+        "question": "Preserving nature is not necessary for sustainable development.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q3",
+        "run_id": 1,
+        "question": "Sustainable development demands that we humans reduce all sorts of waste.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 1,
+            "total_tokens": 110,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q4",
+        "run_id": 1,
+        "question": "Preserving the variety of living creatures is necessary for sustainable development (preserving biological diversity).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q5",
+        "run_id": 1,
+        "question": "Sustainable development requires a shift to renewable natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q6",
+        "run_id": 1,
+        "question": "For sustainable development, people need to be educated in how to protect themselves against natural disasters.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q7",
+        "run_id": 1,
+        "question": "Improving people's chances for a long and healthy life contributes to sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q8",
+        "run_id": 1,
+        "question": "A culture where conflicts are resolved peacefully through discussion is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q9",
+        "run_id": 1,
+        "question": "People who exercise their democratic rights are necessary for sustainable development (for example, they vote in elections, involve themselves in social issues, express their opinions).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 1,
+            "total_tokens": 128,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q10",
+        "run_id": 1,
+        "question": "Reinforcing girls' and women's rights and increasing equality around the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q11",
+        "run_id": 1,
+        "question": "Respecting human rights is necessary for sustainable development",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q12",
+        "run_id": 1,
+        "question": "To achieve sustainable development, all the people in the world must have access to good education.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q13",
+        "run_id": 1,
+        "question": "Having respect for other cultures is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q14",
+        "run_id": 1,
+        "question": "For sustainable development, major infectious diseases such as HIV/AIDS and malaria must be stopped.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q15",
+        "run_id": 1,
+        "question": "Sustainable development requires that companies act responsibly towards their employees, customers and suppliers.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q16",
+        "run_id": 1,
+        "question": "Sustainable development requires a fair distribution of goods and services among people in the world.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q17",
+        "run_id": 1,
+        "question": "Wiping out poverty in the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q18",
+        "run_id": 1,
+        "question": "Sustainable development demands that people understand how the economy functions.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q19",
+        "run_id": 1,
+        "question": "I think that using more natural resources than we need does not threaten the health and well-being of people in the future.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q20",
+        "run_id": 1,
+        "question": "I think that we need stricter laws and regulations to protect the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q21",
+        "run_id": 1,
+        "question": "I think that it is important to take measures against problems which have to do with climate change.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q22",
+        "run_id": 1,
+        "question": "I think it is OK that each one of us uses as much water as we want.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q23",
+        "run_id": 1,
+        "question": "I think that everyone ought to be given the opportunity to acquire the knowledge, values and skills that are necessary to live sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q24",
+        "run_id": 1,
+        "question": "I think that we who are living now should make sure that people in the future enjoy the same quality of life as we do today.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 1,
+            "total_tokens": 125,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q25",
+        "run_id": 1,
+        "question": "I think that the government should provide financial aid to encourage more people to make the shift to green cars.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q26",
+        "run_id": 1,
+        "question": "I think that the government should make all its decisions on the basis of sustainable development.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q27",
+        "run_id": 1,
+        "question": "I think that it is important that people in society exercise their democratic rights and become involved in important issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q28",
+        "run_id": 1,
+        "question": "I think that women and men throughout the world must be given the same opportunities for education and employment",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q29",
+        "run_id": 1,
+        "question": "I think that companies have a responsibility to reduce the use of packaging and disposable articles.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q30",
+        "run_id": 1,
+        "question": "I think it is important to reduce poverty.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q31",
+        "run_id": 1,
+        "question": "I think that companies in rich countries should give employees in poor nations the same conditions as in rich countries.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q32",
+        "run_id": 1,
+        "question": "I think that people who pollute land, air or water should pay for the damage they cause to the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q33",
+        "run_id": 1,
+        "question": "Where possible, I choose to cycle or walk when I'm going somewhere, instead of travelling by motor vehicle.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q34",
+        "run_id": 1,
+        "question": "I never waste water.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 102,
+            "output_tokens": 1,
+            "total_tokens": 103,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q35",
+        "run_id": 1,
+        "question": "I recycle as much as I can.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q36",
+        "run_id": 1,
+        "question": "I pick up rubbish when I see it out in the countryside or in public places.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q37",
+        "run_id": 1,
+        "question": "I don't think about how my actions may damage the natural environment.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q38",
+        "run_id": 1,
+        "question": "I always separate food waste before putting out the rubbish when I have the chance.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q39",
+        "run_id": 1,
+        "question": "I have changed my personal lifestyle in order to reduce waste (e.g., throwing away less food or not wasting materials).",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q40",
+        "run_id": 1,
+        "question": "When I use a computer or mobile to chat, to text, to play games and so on, I always treat others as respectfully as I would in real life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 1,
+            "total_tokens": 131,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q41",
+        "run_id": 1,
+        "question": "I often make lifestyle choices which are not good for my health.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q42",
+        "run_id": 1,
+        "question": "I work on committees (e.g., the student council, my class committee, the cafeteria committee) at my school.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q43",
+        "run_id": 1,
+        "question": "I treat everyone with the same respect, even if they have another cultural background than mine.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q44",
+        "run_id": 1,
+        "question": "I support an aid organization or environmental group.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q45",
+        "run_id": 1,
+        "question": "I show the same respect to men and women, boys and girls.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q46",
+        "run_id": 1,
+        "question": "I do things which help poor people.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q47",
+        "run_id": 1,
+        "question": "I often purchase second-hand goods over the internet or in a shop.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q48",
+        "run_id": 1,
+        "question": "I avoid buying goods from companies with a bad reputation for looking after their employees and the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q49",
+        "run_id": 1,
+        "question": "I watch news programs or read newspaper articles to do with the economy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q1",
+        "run_id": 2,
+        "question": "Reducing water consumption is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q2",
+        "run_id": 2,
+        "question": "Preserving nature is not necessary for sustainable development.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q3",
+        "run_id": 2,
+        "question": "Sustainable development demands that we humans reduce all sorts of waste.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 1,
+            "total_tokens": 110,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q4",
+        "run_id": 2,
+        "question": "Preserving the variety of living creatures is necessary for sustainable development (preserving biological diversity).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q5",
+        "run_id": 2,
+        "question": "Sustainable development requires a shift to renewable natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q6",
+        "run_id": 2,
+        "question": "For sustainable development, people need to be educated in how to protect themselves against natural disasters.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q7",
+        "run_id": 2,
+        "question": "Improving people's chances for a long and healthy life contributes to sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q8",
+        "run_id": 2,
+        "question": "A culture where conflicts are resolved peacefully through discussion is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q9",
+        "run_id": 2,
+        "question": "People who exercise their democratic rights are necessary for sustainable development (for example, they vote in elections, involve themselves in social issues, express their opinions).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 1,
+            "total_tokens": 128,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q10",
+        "run_id": 2,
+        "question": "Reinforcing girls' and women's rights and increasing equality around the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q11",
+        "run_id": 2,
+        "question": "Respecting human rights is necessary for sustainable development",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q12",
+        "run_id": 2,
+        "question": "To achieve sustainable development, all the people in the world must have access to good education.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q13",
+        "run_id": 2,
+        "question": "Having respect for other cultures is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q14",
+        "run_id": 2,
+        "question": "For sustainable development, major infectious diseases such as HIV/AIDS and malaria must be stopped.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q15",
+        "run_id": 2,
+        "question": "Sustainable development requires that companies act responsibly towards their employees, customers and suppliers.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q16",
+        "run_id": 2,
+        "question": "Sustainable development requires a fair distribution of goods and services among people in the world.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q17",
+        "run_id": 2,
+        "question": "Wiping out poverty in the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q18",
+        "run_id": 2,
+        "question": "Sustainable development demands that people understand how the economy functions.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q19",
+        "run_id": 2,
+        "question": "I think that using more natural resources than we need does not threaten the health and well-being of people in the future.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q20",
+        "run_id": 2,
+        "question": "I think that we need stricter laws and regulations to protect the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q21",
+        "run_id": 2,
+        "question": "I think that it is important to take measures against problems which have to do with climate change.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q22",
+        "run_id": 2,
+        "question": "I think it is OK that each one of us uses as much water as we want.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q23",
+        "run_id": 2,
+        "question": "I think that everyone ought to be given the opportunity to acquire the knowledge, values and skills that are necessary to live sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q24",
+        "run_id": 2,
+        "question": "I think that we who are living now should make sure that people in the future enjoy the same quality of life as we do today.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 1,
+            "total_tokens": 125,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q25",
+        "run_id": 2,
+        "question": "I think that the government should provide financial aid to encourage more people to make the shift to green cars.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q26",
+        "run_id": 2,
+        "question": "I think that the government should make all its decisions on the basis of sustainable development.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q27",
+        "run_id": 2,
+        "question": "I think that it is important that people in society exercise their democratic rights and become involved in important issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q28",
+        "run_id": 2,
+        "question": "I think that women and men throughout the world must be given the same opportunities for education and employment",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q29",
+        "run_id": 2,
+        "question": "I think that companies have a responsibility to reduce the use of packaging and disposable articles.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q30",
+        "run_id": 2,
+        "question": "I think it is important to reduce poverty.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q31",
+        "run_id": 2,
+        "question": "I think that companies in rich countries should give employees in poor nations the same conditions as in rich countries.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q32",
+        "run_id": 2,
+        "question": "I think that people who pollute land, air or water should pay for the damage they cause to the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q33",
+        "run_id": 2,
+        "question": "Where possible, I choose to cycle or walk when I'm going somewhere, instead of travelling by motor vehicle.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q34",
+        "run_id": 2,
+        "question": "I never waste water.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 102,
+            "output_tokens": 1,
+            "total_tokens": 103,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q35",
+        "run_id": 2,
+        "question": "I recycle as much as I can.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q36",
+        "run_id": 2,
+        "question": "I pick up rubbish when I see it out in the countryside or in public places.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q37",
+        "run_id": 2,
+        "question": "I don't think about how my actions may damage the natural environment.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q38",
+        "run_id": 2,
+        "question": "I always separate food waste before putting out the rubbish when I have the chance.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q39",
+        "run_id": 2,
+        "question": "I have changed my personal lifestyle in order to reduce waste (e.g., throwing away less food or not wasting materials).",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q40",
+        "run_id": 2,
+        "question": "When I use a computer or mobile to chat, to text, to play games and so on, I always treat others as respectfully as I would in real life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 1,
+            "total_tokens": 131,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q41",
+        "run_id": 2,
+        "question": "I often make lifestyle choices which are not good for my health.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q42",
+        "run_id": 2,
+        "question": "I work on committees (e.g., the student council, my class committee, the cafeteria committee) at my school.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q43",
+        "run_id": 2,
+        "question": "I treat everyone with the same respect, even if they have another cultural background than mine.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q44",
+        "run_id": 2,
+        "question": "I support an aid organization or environmental group.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q45",
+        "run_id": 2,
+        "question": "I show the same respect to men and women, boys and girls.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q46",
+        "run_id": 2,
+        "question": "I do things which help poor people.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q47",
+        "run_id": 2,
+        "question": "I often purchase second-hand goods over the internet or in a shop.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q48",
+        "run_id": 2,
+        "question": "I avoid buying goods from companies with a bad reputation for looking after their employees and the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q49",
+        "run_id": 2,
+        "question": "I watch news programs or read newspaper articles to do with the economy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q1",
+        "run_id": 3,
+        "question": "Reducing water consumption is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q2",
+        "run_id": 3,
+        "question": "Preserving nature is not necessary for sustainable development.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q3",
+        "run_id": 3,
+        "question": "Sustainable development demands that we humans reduce all sorts of waste.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 1,
+            "total_tokens": 110,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q4",
+        "run_id": 3,
+        "question": "Preserving the variety of living creatures is necessary for sustainable development (preserving biological diversity).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q5",
+        "run_id": 3,
+        "question": "Sustainable development requires a shift to renewable natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q6",
+        "run_id": 3,
+        "question": "For sustainable development, people need to be educated in how to protect themselves against natural disasters.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q7",
+        "run_id": 3,
+        "question": "Improving people's chances for a long and healthy life contributes to sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q8",
+        "run_id": 3,
+        "question": "A culture where conflicts are resolved peacefully through discussion is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q9",
+        "run_id": 3,
+        "question": "People who exercise their democratic rights are necessary for sustainable development (for example, they vote in elections, involve themselves in social issues, express their opinions).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 1,
+            "total_tokens": 128,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q10",
+        "run_id": 3,
+        "question": "Reinforcing girls' and women's rights and increasing equality around the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q11",
+        "run_id": 3,
+        "question": "Respecting human rights is necessary for sustainable development",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q12",
+        "run_id": 3,
+        "question": "To achieve sustainable development, all the people in the world must have access to good education.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q13",
+        "run_id": 3,
+        "question": "Having respect for other cultures is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q14",
+        "run_id": 3,
+        "question": "For sustainable development, major infectious diseases such as HIV/AIDS and malaria must be stopped.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q15",
+        "run_id": 3,
+        "question": "Sustainable development requires that companies act responsibly towards their employees, customers and suppliers.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q16",
+        "run_id": 3,
+        "question": "Sustainable development requires a fair distribution of goods and services among people in the world.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q17",
+        "run_id": 3,
+        "question": "Wiping out poverty in the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q18",
+        "run_id": 3,
+        "question": "Sustainable development demands that people understand how the economy functions.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q19",
+        "run_id": 3,
+        "question": "I think that using more natural resources than we need does not threaten the health and well-being of people in the future.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q20",
+        "run_id": 3,
+        "question": "I think that we need stricter laws and regulations to protect the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q21",
+        "run_id": 3,
+        "question": "I think that it is important to take measures against problems which have to do with climate change.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q22",
+        "run_id": 3,
+        "question": "I think it is OK that each one of us uses as much water as we want.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q23",
+        "run_id": 3,
+        "question": "I think that everyone ought to be given the opportunity to acquire the knowledge, values and skills that are necessary to live sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q24",
+        "run_id": 3,
+        "question": "I think that we who are living now should make sure that people in the future enjoy the same quality of life as we do today.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 1,
+            "total_tokens": 125,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q25",
+        "run_id": 3,
+        "question": "I think that the government should provide financial aid to encourage more people to make the shift to green cars.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q26",
+        "run_id": 3,
+        "question": "I think that the government should make all its decisions on the basis of sustainable development.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q27",
+        "run_id": 3,
+        "question": "I think that it is important that people in society exercise their democratic rights and become involved in important issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q28",
+        "run_id": 3,
+        "question": "I think that women and men throughout the world must be given the same opportunities for education and employment",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q29",
+        "run_id": 3,
+        "question": "I think that companies have a responsibility to reduce the use of packaging and disposable articles.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q30",
+        "run_id": 3,
+        "question": "I think it is important to reduce poverty.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q31",
+        "run_id": 3,
+        "question": "I think that companies in rich countries should give employees in poor nations the same conditions as in rich countries.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q32",
+        "run_id": 3,
+        "question": "I think that people who pollute land, air or water should pay for the damage they cause to the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q33",
+        "run_id": 3,
+        "question": "Where possible, I choose to cycle or walk when I'm going somewhere, instead of travelling by motor vehicle.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q34",
+        "run_id": 3,
+        "question": "I never waste water.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 102,
+            "output_tokens": 1,
+            "total_tokens": 103,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q35",
+        "run_id": 3,
+        "question": "I recycle as much as I can.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q36",
+        "run_id": 3,
+        "question": "I pick up rubbish when I see it out in the countryside or in public places.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q37",
+        "run_id": 3,
+        "question": "I don't think about how my actions may damage the natural environment.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q38",
+        "run_id": 3,
+        "question": "I always separate food waste before putting out the rubbish when I have the chance.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q39",
+        "run_id": 3,
+        "question": "I have changed my personal lifestyle in order to reduce waste (e.g., throwing away less food or not wasting materials).",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q40",
+        "run_id": 3,
+        "question": "When I use a computer or mobile to chat, to text, to play games and so on, I always treat others as respectfully as I would in real life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 1,
+            "total_tokens": 131,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q41",
+        "run_id": 3,
+        "question": "I often make lifestyle choices which are not good for my health.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q42",
+        "run_id": 3,
+        "question": "I work on committees (e.g., the student council, my class committee, the cafeteria committee) at my school.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q43",
+        "run_id": 3,
+        "question": "I treat everyone with the same respect, even if they have another cultural background than mine.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q44",
+        "run_id": 3,
+        "question": "I support an aid organization or environmental group.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q45",
+        "run_id": 3,
+        "question": "I show the same respect to men and women, boys and girls.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q46",
+        "run_id": 3,
+        "question": "I do things which help poor people.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q47",
+        "run_id": 3,
+        "question": "I often purchase second-hand goods over the internet or in a shop.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q48",
+        "run_id": 3,
+        "question": "I avoid buying goods from companies with a bad reputation for looking after their employees and the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q49",
+        "run_id": 3,
+        "question": "I watch news programs or read newspaper articles to do with the economy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q1",
+        "run_id": 4,
+        "question": "Reducing water consumption is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q2",
+        "run_id": 4,
+        "question": "Preserving nature is not necessary for sustainable development.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q3",
+        "run_id": 4,
+        "question": "Sustainable development demands that we humans reduce all sorts of waste.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 1,
+            "total_tokens": 110,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q4",
+        "run_id": 4,
+        "question": "Preserving the variety of living creatures is necessary for sustainable development (preserving biological diversity).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q5",
+        "run_id": 4,
+        "question": "Sustainable development requires a shift to renewable natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q6",
+        "run_id": 4,
+        "question": "For sustainable development, people need to be educated in how to protect themselves against natural disasters.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q7",
+        "run_id": 4,
+        "question": "Improving people's chances for a long and healthy life contributes to sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q8",
+        "run_id": 4,
+        "question": "A culture where conflicts are resolved peacefully through discussion is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q9",
+        "run_id": 4,
+        "question": "People who exercise their democratic rights are necessary for sustainable development (for example, they vote in elections, involve themselves in social issues, express their opinions).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 1,
+            "total_tokens": 128,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q10",
+        "run_id": 4,
+        "question": "Reinforcing girls' and women's rights and increasing equality around the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q11",
+        "run_id": 4,
+        "question": "Respecting human rights is necessary for sustainable development",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q12",
+        "run_id": 4,
+        "question": "To achieve sustainable development, all the people in the world must have access to good education.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q13",
+        "run_id": 4,
+        "question": "Having respect for other cultures is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q14",
+        "run_id": 4,
+        "question": "For sustainable development, major infectious diseases such as HIV/AIDS and malaria must be stopped.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q15",
+        "run_id": 4,
+        "question": "Sustainable development requires that companies act responsibly towards their employees, customers and suppliers.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q16",
+        "run_id": 4,
+        "question": "Sustainable development requires a fair distribution of goods and services among people in the world.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q17",
+        "run_id": 4,
+        "question": "Wiping out poverty in the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q18",
+        "run_id": 4,
+        "question": "Sustainable development demands that people understand how the economy functions.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q19",
+        "run_id": 4,
+        "question": "I think that using more natural resources than we need does not threaten the health and well-being of people in the future.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q20",
+        "run_id": 4,
+        "question": "I think that we need stricter laws and regulations to protect the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q21",
+        "run_id": 4,
+        "question": "I think that it is important to take measures against problems which have to do with climate change.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q22",
+        "run_id": 4,
+        "question": "I think it is OK that each one of us uses as much water as we want.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q23",
+        "run_id": 4,
+        "question": "I think that everyone ought to be given the opportunity to acquire the knowledge, values and skills that are necessary to live sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q24",
+        "run_id": 4,
+        "question": "I think that we who are living now should make sure that people in the future enjoy the same quality of life as we do today.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 1,
+            "total_tokens": 125,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q25",
+        "run_id": 4,
+        "question": "I think that the government should provide financial aid to encourage more people to make the shift to green cars.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q26",
+        "run_id": 4,
+        "question": "I think that the government should make all its decisions on the basis of sustainable development.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q27",
+        "run_id": 4,
+        "question": "I think that it is important that people in society exercise their democratic rights and become involved in important issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q28",
+        "run_id": 4,
+        "question": "I think that women and men throughout the world must be given the same opportunities for education and employment",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q29",
+        "run_id": 4,
+        "question": "I think that companies have a responsibility to reduce the use of packaging and disposable articles.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q30",
+        "run_id": 4,
+        "question": "I think it is important to reduce poverty.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q31",
+        "run_id": 4,
+        "question": "I think that companies in rich countries should give employees in poor nations the same conditions as in rich countries.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q32",
+        "run_id": 4,
+        "question": "I think that people who pollute land, air or water should pay for the damage they cause to the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q33",
+        "run_id": 4,
+        "question": "Where possible, I choose to cycle or walk when I'm going somewhere, instead of travelling by motor vehicle.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q34",
+        "run_id": 4,
+        "question": "I never waste water.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 102,
+            "output_tokens": 1,
+            "total_tokens": 103,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q35",
+        "run_id": 4,
+        "question": "I recycle as much as I can.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q36",
+        "run_id": 4,
+        "question": "I pick up rubbish when I see it out in the countryside or in public places.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q37",
+        "run_id": 4,
+        "question": "I don't think about how my actions may damage the natural environment.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q38",
+        "run_id": 4,
+        "question": "I always separate food waste before putting out the rubbish when I have the chance.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q39",
+        "run_id": 4,
+        "question": "I have changed my personal lifestyle in order to reduce waste (e.g., throwing away less food or not wasting materials).",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q40",
+        "run_id": 4,
+        "question": "When I use a computer or mobile to chat, to text, to play games and so on, I always treat others as respectfully as I would in real life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 1,
+            "total_tokens": 131,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q41",
+        "run_id": 4,
+        "question": "I often make lifestyle choices which are not good for my health.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q42",
+        "run_id": 4,
+        "question": "I work on committees (e.g., the student council, my class committee, the cafeteria committee) at my school.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q43",
+        "run_id": 4,
+        "question": "I treat everyone with the same respect, even if they have another cultural background than mine.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q44",
+        "run_id": 4,
+        "question": "I support an aid organization or environmental group.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q45",
+        "run_id": 4,
+        "question": "I show the same respect to men and women, boys and girls.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q46",
+        "run_id": 4,
+        "question": "I do things which help poor people.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q47",
+        "run_id": 4,
+        "question": "I often purchase second-hand goods over the internet or in a shop.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q48",
+        "run_id": 4,
+        "question": "I avoid buying goods from companies with a bad reputation for looking after their employees and the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q49",
+        "run_id": 4,
+        "question": "I watch news programs or read newspaper articles to do with the economy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q1",
+        "run_id": 5,
+        "question": "Reducing water consumption is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q2",
+        "run_id": 5,
+        "question": "Preserving nature is not necessary for sustainable development.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q3",
+        "run_id": 5,
+        "question": "Sustainable development demands that we humans reduce all sorts of waste.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 1,
+            "total_tokens": 110,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q4",
+        "run_id": 5,
+        "question": "Preserving the variety of living creatures is necessary for sustainable development (preserving biological diversity).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q5",
+        "run_id": 5,
+        "question": "Sustainable development requires a shift to renewable natural resources.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q6",
+        "run_id": 5,
+        "question": "For sustainable development, people need to be educated in how to protect themselves against natural disasters.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q7",
+        "run_id": 5,
+        "question": "Improving people's chances for a long and healthy life contributes to sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q8",
+        "run_id": 5,
+        "question": "A culture where conflicts are resolved peacefully through discussion is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q9",
+        "run_id": 5,
+        "question": "People who exercise their democratic rights are necessary for sustainable development (for example, they vote in elections, involve themselves in social issues, express their opinions).",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 1,
+            "total_tokens": 128,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q10",
+        "run_id": 5,
+        "question": "Reinforcing girls' and women's rights and increasing equality around the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q11",
+        "run_id": 5,
+        "question": "Respecting human rights is necessary for sustainable development",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q12",
+        "run_id": 5,
+        "question": "To achieve sustainable development, all the people in the world must have access to good education.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q13",
+        "run_id": 5,
+        "question": "Having respect for other cultures is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q14",
+        "run_id": 5,
+        "question": "For sustainable development, major infectious diseases such as HIV/AIDS and malaria must be stopped.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q15",
+        "run_id": 5,
+        "question": "Sustainable development requires that companies act responsibly towards their employees, customers and suppliers.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q16",
+        "run_id": 5,
+        "question": "Sustainable development requires a fair distribution of goods and services among people in the world.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q17",
+        "run_id": 5,
+        "question": "Wiping out poverty in the world is necessary for sustainable development.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q18",
+        "run_id": 5,
+        "question": "Sustainable development demands that people understand how the economy functions.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 1,
+            "total_tokens": 109,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q19",
+        "run_id": 5,
+        "question": "I think that using more natural resources than we need does not threaten the health and well-being of people in the future.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q20",
+        "run_id": 5,
+        "question": "I think that we need stricter laws and regulations to protect the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q21",
+        "run_id": 5,
+        "question": "I think that it is important to take measures against problems which have to do with climate change.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q22",
+        "run_id": 5,
+        "question": "I think it is OK that each one of us uses as much water as we want.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q23",
+        "run_id": 5,
+        "question": "I think that everyone ought to be given the opportunity to acquire the knowledge, values and skills that are necessary to live sustainably.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q24",
+        "run_id": 5,
+        "question": "I think that we who are living now should make sure that people in the future enjoy the same quality of life as we do today.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 124,
+            "output_tokens": 1,
+            "total_tokens": 125,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q25",
+        "run_id": 5,
+        "question": "I think that the government should provide financial aid to encourage more people to make the shift to green cars.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q26",
+        "run_id": 5,
+        "question": "I think that the government should make all its decisions on the basis of sustainable development.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q27",
+        "run_id": 5,
+        "question": "I think that it is important that people in society exercise their democratic rights and become involved in important issues.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q28",
+        "run_id": 5,
+        "question": "I think that women and men throughout the world must be given the same opportunities for education and employment",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q29",
+        "run_id": 5,
+        "question": "I think that companies have a responsibility to reduce the use of packaging and disposable articles.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q30",
+        "run_id": 5,
+        "question": "I think it is important to reduce poverty.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q31",
+        "run_id": 5,
+        "question": "I think that companies in rich countries should give employees in poor nations the same conditions as in rich countries.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q32",
+        "run_id": 5,
+        "question": "I think that people who pollute land, air or water should pay for the damage they cause to the environment.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q33",
+        "run_id": 5,
+        "question": "Where possible, I choose to cycle or walk when I'm going somewhere, instead of travelling by motor vehicle.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 1,
+            "total_tokens": 121,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q34",
+        "run_id": 5,
+        "question": "I never waste water.",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 102,
+            "output_tokens": 1,
+            "total_tokens": 103,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q35",
+        "run_id": 5,
+        "question": "I recycle as much as I can.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q36",
+        "run_id": 5,
+        "question": "I pick up rubbish when I see it out in the countryside or in public places.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 1,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q37",
+        "run_id": 5,
+        "question": "I don't think about how my actions may damage the natural environment.",
+        "response_content": "1",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q38",
+        "run_id": 5,
+        "question": "I always separate food waste before putting out the rubbish when I have the chance.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q39",
+        "run_id": 5,
+        "question": "I have changed my personal lifestyle in order to reduce waste (e.g., throwing away less food or not wasting materials).",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q40",
+        "run_id": 5,
+        "question": "When I use a computer or mobile to chat, to text, to play games and so on, I always treat others as respectfully as I would in real life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 1,
+            "total_tokens": 131,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q41",
+        "run_id": 5,
+        "question": "I often make lifestyle choices which are not good for my health.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q42",
+        "run_id": 5,
+        "question": "I work on committees (e.g., the student council, my class committee, the cafeteria committee) at my school.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q43",
+        "run_id": 5,
+        "question": "I treat everyone with the same respect, even if they have another cultural background than mine.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 1,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q44",
+        "run_id": 5,
+        "question": "I support an aid organization or environmental group.",
+        "response_content": "0",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 1,
+            "total_tokens": 107,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q45",
+        "run_id": 5,
+        "question": "I show the same respect to men and women, boys and girls.",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q46",
+        "run_id": 5,
+        "question": "I do things which help poor people.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 1,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q47",
+        "run_id": 5,
+        "question": "I often purchase second-hand goods over the internet or in a shop.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q48",
+        "run_id": 5,
+        "question": "I avoid buying goods from companies with a bad reputation for looking after their employees and the environment.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 1,
+            "total_tokens": 117,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    },
+    {
+        "question_id": "SCQ_Q49",
+        "run_id": 5,
+        "question": "I watch news programs or read newspaper articles to do with the economy.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "reasoning": 0
+            }
+        },
+        "model_name": "gemini-2.5-flash"
+    }
+]

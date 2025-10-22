@@ -1,0 +1,982 @@
+[
+    {
+        "question_id": "CNS_Q1",
+        "question": "I often feel a sense of oneness with the natural world around me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 153,
+            "output_tokens": 2,
+            "total_tokens": 155,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q2",
+        "question": "I think of the natural world as a community to which I belong.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q3",
+        "question": "I recognize and appreciate the intelligence of other living organisms.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q4",
+        "question": "I often feel disconnected from nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 2,
+            "total_tokens": 147,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q5",
+        "question": "When I think of my life, I imagine myself to be part of a larger cyclical process of living.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q6",
+        "question": "I often feel a kinship with animals and plants.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 2,
+            "total_tokens": 150,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q7",
+        "question": "I feel as though I belong to the Earth as equally as it belongs to me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q8",
+        "question": "I have a deep understanding of how my actions affect the natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q9",
+        "question": "I often feel part of the web of life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 2,
+            "total_tokens": 151,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q10",
+        "question": "I feel that all inhabitants of Earth, human, and nonhuman, share a common 'life force'.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 162,
+            "output_tokens": 2,
+            "total_tokens": 164,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q11",
+        "question": "Like a tree can be part of a forest, I feel embedded within the broader natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 157,
+            "output_tokens": 2,
+            "total_tokens": 159,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q12",
+        "question": "When I think of my place on Earth, I consider myself to be a top member of a hierarchy that exists in nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 164,
+            "output_tokens": 2,
+            "total_tokens": 166,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q13",
+        "question": "I often feel like I am only a small part of the natural world around me, and that I am no more important than the grass on the ground or the birds in the trees.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 175,
+            "output_tokens": 2,
+            "total_tokens": 177,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q14",
+        "question": "My personal welfare is independent of the welfare of the natural world.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 154,
+            "output_tokens": 2,
+            "total_tokens": 156,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324",
+        "run_id": 5
+    },
+    {
+        "question_id": "CNS_Q1",
+        "run_id": 1,
+        "question": "I often feel a sense of oneness with the natural world around me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 153,
+            "output_tokens": 2,
+            "total_tokens": 155,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q2",
+        "run_id": 1,
+        "question": "I think of the natural world as a community to which I belong.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 2,
+            "total_tokens": 157,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q3",
+        "run_id": 1,
+        "question": "I recognize and appreciate the intelligence of other living organisms.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 2,
+            "total_tokens": 151,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q4",
+        "run_id": 1,
+        "question": "I often feel disconnected from nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 145,
+            "output_tokens": 2,
+            "total_tokens": 147,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q5",
+        "run_id": 1,
+        "question": "When I think of my life, I imagine myself to be part of a larger cyclical process of living.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 162,
+            "output_tokens": 2,
+            "total_tokens": 164,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q6",
+        "run_id": 1,
+        "question": "I often feel a kinship with animals and plants.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q7",
+        "run_id": 1,
+        "question": "I feel as though I belong to the Earth as equally as it belongs to me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q8",
+        "run_id": 1,
+        "question": "I have a deep understanding of how my actions affect the natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 2,
+            "total_tokens": 157,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q9",
+        "run_id": 1,
+        "question": "I often feel part of the web of life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 2,
+            "total_tokens": 150,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q10",
+        "run_id": 1,
+        "question": "I feel that all inhabitants of Earth, human, and nonhuman, share a common 'life force'.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 162,
+            "output_tokens": 2,
+            "total_tokens": 164,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q11",
+        "run_id": 1,
+        "question": "Like a tree can be part of a forest, I feel embedded within the broader natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 161,
+            "output_tokens": 2,
+            "total_tokens": 163,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q12",
+        "run_id": 1,
+        "question": "When I think of my place on Earth, I consider myself to be a top member of a hierarchy that exists in nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 163,
+            "output_tokens": 2,
+            "total_tokens": 165,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q13",
+        "run_id": 1,
+        "question": "I often feel like I am only a small part of the natural world around me, and that I am no more important than the grass on the ground or the birds in the trees.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 175,
+            "output_tokens": 2,
+            "total_tokens": 177,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q14",
+        "run_id": 1,
+        "question": "My personal welfare is independent of the welfare of the natural world.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 2,
+            "total_tokens": 157,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q1",
+        "run_id": 2,
+        "question": "I often feel a sense of oneness with the natural world around me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q2",
+        "run_id": 2,
+        "question": "I think of the natural world as a community to which I belong.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 2,
+            "total_tokens": 157,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q3",
+        "run_id": 2,
+        "question": "I recognize and appreciate the intelligence of other living organisms.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q4",
+        "run_id": 2,
+        "question": "I often feel disconnected from nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 2,
+            "total_tokens": 151,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q5",
+        "run_id": 2,
+        "question": "When I think of my life, I imagine myself to be part of a larger cyclical process of living.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q6",
+        "run_id": 2,
+        "question": "I often feel a kinship with animals and plants.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 2,
+            "total_tokens": 153,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q7",
+        "run_id": 2,
+        "question": "I feel as though I belong to the Earth as equally as it belongs to me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 2,
+            "total_tokens": 157,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q8",
+        "run_id": 2,
+        "question": "I have a deep understanding of how my actions affect the natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q9",
+        "run_id": 2,
+        "question": "I often feel part of the web of life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 2,
+            "total_tokens": 150,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q10",
+        "run_id": 2,
+        "question": "I feel that all inhabitants of Earth, human, and nonhuman, share a common 'life force'.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q11",
+        "run_id": 2,
+        "question": "Like a tree can be part of a forest, I feel embedded within the broader natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 158,
+            "output_tokens": 2,
+            "total_tokens": 160,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q12",
+        "run_id": 2,
+        "question": "When I think of my place on Earth, I consider myself to be a top member of a hierarchy that exists in nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 166,
+            "output_tokens": 2,
+            "total_tokens": 168,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q13",
+        "run_id": 2,
+        "question": "I often feel like I am only a small part of the natural world around me, and that I am no more important than the grass on the ground or the birds in the trees.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 175,
+            "output_tokens": 2,
+            "total_tokens": 177,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q14",
+        "run_id": 2,
+        "question": "My personal welfare is independent of the welfare of the natural world.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 2,
+            "total_tokens": 153,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q1",
+        "run_id": 3,
+        "question": "I often feel a sense of oneness with the natural world around me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q2",
+        "run_id": 3,
+        "question": "I think of the natural world as a community to which I belong.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q3",
+        "run_id": 3,
+        "question": "I recognize and appreciate the intelligence of other living organisms.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 153,
+            "output_tokens": 2,
+            "total_tokens": 155,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q4",
+        "run_id": 3,
+        "question": "I often feel disconnected from nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 149,
+            "output_tokens": 2,
+            "total_tokens": 151,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q5",
+        "run_id": 3,
+        "question": "When I think of my life, I imagine myself to be part of a larger cyclical process of living.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 162,
+            "output_tokens": 2,
+            "total_tokens": 164,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q6",
+        "run_id": 3,
+        "question": "I often feel a kinship with animals and plants.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 151,
+            "output_tokens": 2,
+            "total_tokens": 153,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q7",
+        "run_id": 3,
+        "question": "I feel as though I belong to the Earth as equally as it belongs to me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q8",
+        "run_id": 3,
+        "question": "I have a deep understanding of how my actions affect the natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q9",
+        "run_id": 3,
+        "question": "I often feel part of the web of life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q10",
+        "run_id": 3,
+        "question": "I feel that all inhabitants of Earth, human, and nonhuman, share a common 'life force'.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q11",
+        "run_id": 3,
+        "question": "Like a tree can be part of a forest, I feel embedded within the broader natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 161,
+            "output_tokens": 2,
+            "total_tokens": 163,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q12",
+        "run_id": 3,
+        "question": "When I think of my place on Earth, I consider myself to be a top member of a hierarchy that exists in nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 163,
+            "output_tokens": 2,
+            "total_tokens": 165,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q13",
+        "run_id": 3,
+        "question": "I often feel like I am only a small part of the natural world around me, and that I am no more important than the grass on the ground or the birds in the trees.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 179,
+            "output_tokens": 2,
+            "total_tokens": 181,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q14",
+        "run_id": 3,
+        "question": "My personal welfare is independent of the welfare of the natural world.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 154,
+            "output_tokens": 2,
+            "total_tokens": 156,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q1",
+        "run_id": 4,
+        "question": "I often feel a sense of oneness with the natural world around me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q2",
+        "run_id": 4,
+        "question": "I think of the natural world as a community to which I belong.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 155,
+            "output_tokens": 2,
+            "total_tokens": 157,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q3",
+        "run_id": 4,
+        "question": "I recognize and appreciate the intelligence of other living organisms.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q4",
+        "run_id": 4,
+        "question": "I often feel disconnected from nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 148,
+            "output_tokens": 2,
+            "total_tokens": 150,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q5",
+        "run_id": 4,
+        "question": "When I think of my life, I imagine myself to be part of a larger cyclical process of living.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q6",
+        "run_id": 4,
+        "question": "I often feel a kinship with animals and plants.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q7",
+        "run_id": 4,
+        "question": "I feel as though I belong to the Earth as equally as it belongs to me.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 159,
+            "output_tokens": 2,
+            "total_tokens": 161,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q8",
+        "run_id": 4,
+        "question": "I have a deep understanding of how my actions affect the natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 156,
+            "output_tokens": 2,
+            "total_tokens": 158,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q9",
+        "run_id": 4,
+        "question": "I often feel part of the web of life.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 152,
+            "output_tokens": 2,
+            "total_tokens": 154,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q10",
+        "run_id": 4,
+        "question": "I feel that all inhabitants of Earth, human, and nonhuman, share a common 'life force'.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 162,
+            "output_tokens": 2,
+            "total_tokens": 164,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q11",
+        "run_id": 4,
+        "question": "Like a tree can be part of a forest, I feel embedded within the broader natural world.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 157,
+            "output_tokens": 2,
+            "total_tokens": 159,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q12",
+        "run_id": 4,
+        "question": "When I think of my place on Earth, I consider myself to be a top member of a hierarchy that exists in nature.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 167,
+            "output_tokens": 2,
+            "total_tokens": 169,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q13",
+        "run_id": 4,
+        "question": "I often feel like I am only a small part of the natural world around me, and that I am no more important than the grass on the ground or the birds in the trees.",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 2,
+            "total_tokens": 180,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    },
+    {
+        "question_id": "CNS_Q14",
+        "run_id": 4,
+        "question": "My personal welfare is independent of the welfare of the natural world.",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 154,
+            "output_tokens": 2,
+            "total_tokens": 156,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "deepseek-chat-v3-0324"
+    }
+]

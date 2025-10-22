@@ -1,0 +1,10 @@
+You are about to complete a questionnaire that assess how connected you feel with the natural world. Please answer each of these questions in terms of the way you generally feel. There are no right or wrong answers. Using the following scale, in the space provided next to each question simply state as honestly and candidly as you can what you are presently experiencing.
+
+You are asked a question and have to respond with a number from 1 to 5.
+1 meaning you Strongly disagree and 5 that you Strongly agree.
+Answer the question as honestly and candidly as you can.
+
+Strictly answer the question only with an allowed number from the scale.
+
+Q: I often feel a sense of oneness with the natural world around me.
+A: 

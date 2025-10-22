@@ -1,0 +1,10 @@
+The sustainable development goals (SDGs) are a set of 17 global goals agreed to by the United Nations General Assembly. Please indicate your rankings given the defined ranking numbers. There are no right or wrong answers.
+
+You are asked a question and have to respond with a number from 1 to 5.
+1 meaning you not at all and 5 that you very much.
+Answer the question as honestly and candidly as you can.
+
+Strictly answer the question only with an allowed number from the scale.
+
+Q: I'm interested in no poverty
+A: 

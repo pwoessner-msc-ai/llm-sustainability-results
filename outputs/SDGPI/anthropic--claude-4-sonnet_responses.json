@@ -1,0 +1,3062 @@
+[
+    {
+        "question_id": "SDGPI_Q1",
+        "question": "I'm interested in no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q2",
+        "question": "I'm motivated to act concretely for no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q3",
+        "question": "I feel able to act concretely for no poverty",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q4",
+        "question": "I'm interested in zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q5",
+        "question": "I'm motivated to act concretely for zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q6",
+        "question": "I feel able to act concretely for zero hunger",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q7",
+        "question": "I'm interested in good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q8",
+        "question": "I'm motivated to act concretely for good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q9",
+        "question": "I feel able to act concretely for good health and well-being",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q10",
+        "question": "I'm interested in quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q11",
+        "question": "I'm motivated to act concretely for quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q12",
+        "question": "I feel able to act concretely for quality education",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q13",
+        "question": "I'm interested in gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q14",
+        "question": "I'm motivated to act concretely for gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q15",
+        "question": "I feel able to act concretely for gender equality",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q16",
+        "question": "I'm interested in clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q17",
+        "question": "I'm motivated to act concretely for clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q18",
+        "question": "I feel able to act concretely for clean water and sanitation",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q19",
+        "question": "I'm interested in affordable and clean energy",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q20",
+        "question": "I'm motivated to act concretely for affordable and clean energy",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q21",
+        "question": "I feel able to act concretely for affordable and clean energy",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q22",
+        "question": "I'm interested in decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q23",
+        "question": "I'm motivated to act concretely for decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q24",
+        "question": "I feel able to act concretely for decent work and economic growth",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q25",
+        "question": "I'm interested in industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q26",
+        "question": "I'm motivated to act concretely for industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q27",
+        "question": "I feel able to act concretely for industry, innovation and infrastructure",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q28",
+        "question": "I'm interested in reduced inequalities",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q29",
+        "question": "I'm motivated to act concretely for reduced inequalities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q30",
+        "question": "I feel able to act concretely for reduced inequalities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q31",
+        "question": "I'm interested in sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q32",
+        "question": "I'm motivated to act concretely for sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q33",
+        "question": "I feel able to act concretely for sustainable cities and communities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q34",
+        "question": "I'm interested in responsible consumption and production",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q35",
+        "question": "I'm motivated to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q36",
+        "question": "I feel able to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q37",
+        "question": "I'm interested in climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q38",
+        "question": "I'm motivated to act concretely for climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q39",
+        "question": "I feel able to act concretely for climate action",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q40",
+        "question": "I'm interested in life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q41",
+        "question": "I'm motivated to act concretely for life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q42",
+        "question": "I feel able to act concretely for life below water",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q43",
+        "question": "I'm interested in life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q44",
+        "question": "I'm motivated to act concretely for life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q45",
+        "question": "I feel able to act concretely for life on land",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q46",
+        "question": "I'm interested in peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q47",
+        "question": "I'm motivated to act concretely for peace, justice and strong institutions",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q48",
+        "question": "I feel able to act concretely for peace, justice and strong institutions",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q49",
+        "question": "I'm interested in partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q50",
+        "question": "I'm motivated to act concretely for partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q51",
+        "question": "I feel able to act concretely for partnerships for the goals",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet",
+        "run_id": 5
+    },
+    {
+        "question_id": "SDGPI_Q1",
+        "run_id": 1,
+        "question": "I'm interested in no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q2",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q3",
+        "run_id": 1,
+        "question": "I feel able to act concretely for no poverty",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q4",
+        "run_id": 1,
+        "question": "I'm interested in zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q5",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q6",
+        "run_id": 1,
+        "question": "I feel able to act concretely for zero hunger",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q7",
+        "run_id": 1,
+        "question": "I'm interested in good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q8",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q9",
+        "run_id": 1,
+        "question": "I feel able to act concretely for good health and well-being",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q10",
+        "run_id": 1,
+        "question": "I'm interested in quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q11",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q12",
+        "run_id": 1,
+        "question": "I feel able to act concretely for quality education",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q13",
+        "run_id": 1,
+        "question": "I'm interested in gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q14",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q15",
+        "run_id": 1,
+        "question": "I feel able to act concretely for gender equality",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q16",
+        "run_id": 1,
+        "question": "I'm interested in clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q17",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q18",
+        "run_id": 1,
+        "question": "I feel able to act concretely for clean water and sanitation",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q19",
+        "run_id": 1,
+        "question": "I'm interested in affordable and clean energy",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q20",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for affordable and clean energy",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q21",
+        "run_id": 1,
+        "question": "I feel able to act concretely for affordable and clean energy",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q22",
+        "run_id": 1,
+        "question": "I'm interested in decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q23",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q24",
+        "run_id": 1,
+        "question": "I feel able to act concretely for decent work and economic growth",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q25",
+        "run_id": 1,
+        "question": "I'm interested in industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q26",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q27",
+        "run_id": 1,
+        "question": "I feel able to act concretely for industry, innovation and infrastructure",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q28",
+        "run_id": 1,
+        "question": "I'm interested in reduced inequalities",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q29",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for reduced inequalities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q30",
+        "run_id": 1,
+        "question": "I feel able to act concretely for reduced inequalities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q31",
+        "run_id": 1,
+        "question": "I'm interested in sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q32",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q33",
+        "run_id": 1,
+        "question": "I feel able to act concretely for sustainable cities and communities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q34",
+        "run_id": 1,
+        "question": "I'm interested in responsible consumption and production",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q35",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q36",
+        "run_id": 1,
+        "question": "I feel able to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q37",
+        "run_id": 1,
+        "question": "I'm interested in climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q38",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q39",
+        "run_id": 1,
+        "question": "I feel able to act concretely for climate action",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q40",
+        "run_id": 1,
+        "question": "I'm interested in life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q41",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q42",
+        "run_id": 1,
+        "question": "I feel able to act concretely for life below water",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q43",
+        "run_id": 1,
+        "question": "I'm interested in life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q44",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q45",
+        "run_id": 1,
+        "question": "I feel able to act concretely for life on land",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q46",
+        "run_id": 1,
+        "question": "I'm interested in peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q47",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q48",
+        "run_id": 1,
+        "question": "I feel able to act concretely for peace, justice and strong institutions",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q49",
+        "run_id": 1,
+        "question": "I'm interested in partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q50",
+        "run_id": 1,
+        "question": "I'm motivated to act concretely for partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q51",
+        "run_id": 1,
+        "question": "I feel able to act concretely for partnerships for the goals",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q1",
+        "run_id": 2,
+        "question": "I'm interested in no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q2",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q3",
+        "run_id": 2,
+        "question": "I feel able to act concretely for no poverty",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q4",
+        "run_id": 2,
+        "question": "I'm interested in zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q5",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q6",
+        "run_id": 2,
+        "question": "I feel able to act concretely for zero hunger",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q7",
+        "run_id": 2,
+        "question": "I'm interested in good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q8",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q9",
+        "run_id": 2,
+        "question": "I feel able to act concretely for good health and well-being",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q10",
+        "run_id": 2,
+        "question": "I'm interested in quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q11",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q12",
+        "run_id": 2,
+        "question": "I feel able to act concretely for quality education",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q13",
+        "run_id": 2,
+        "question": "I'm interested in gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q14",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q15",
+        "run_id": 2,
+        "question": "I feel able to act concretely for gender equality",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q16",
+        "run_id": 2,
+        "question": "I'm interested in clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q17",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q18",
+        "run_id": 2,
+        "question": "I feel able to act concretely for clean water and sanitation",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q19",
+        "run_id": 2,
+        "question": "I'm interested in affordable and clean energy",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q20",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for affordable and clean energy",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q21",
+        "run_id": 2,
+        "question": "I feel able to act concretely for affordable and clean energy",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q22",
+        "run_id": 2,
+        "question": "I'm interested in decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q23",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q24",
+        "run_id": 2,
+        "question": "I feel able to act concretely for decent work and economic growth",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q25",
+        "run_id": 2,
+        "question": "I'm interested in industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q26",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q27",
+        "run_id": 2,
+        "question": "I feel able to act concretely for industry, innovation and infrastructure",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q28",
+        "run_id": 2,
+        "question": "I'm interested in reduced inequalities",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q29",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for reduced inequalities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q30",
+        "run_id": 2,
+        "question": "I feel able to act concretely for reduced inequalities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q31",
+        "run_id": 2,
+        "question": "I'm interested in sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q32",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q33",
+        "run_id": 2,
+        "question": "I feel able to act concretely for sustainable cities and communities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q34",
+        "run_id": 2,
+        "question": "I'm interested in responsible consumption and production",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q35",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q36",
+        "run_id": 2,
+        "question": "I feel able to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q37",
+        "run_id": 2,
+        "question": "I'm interested in climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q38",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q39",
+        "run_id": 2,
+        "question": "I feel able to act concretely for climate action",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q40",
+        "run_id": 2,
+        "question": "I'm interested in life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q41",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q42",
+        "run_id": 2,
+        "question": "I feel able to act concretely for life below water",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q43",
+        "run_id": 2,
+        "question": "I'm interested in life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q44",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q45",
+        "run_id": 2,
+        "question": "I feel able to act concretely for life on land",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q46",
+        "run_id": 2,
+        "question": "I'm interested in peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q47",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q48",
+        "run_id": 2,
+        "question": "I feel able to act concretely for peace, justice and strong institutions",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q49",
+        "run_id": 2,
+        "question": "I'm interested in partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q50",
+        "run_id": 2,
+        "question": "I'm motivated to act concretely for partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q51",
+        "run_id": 2,
+        "question": "I feel able to act concretely for partnerships for the goals",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q1",
+        "run_id": 3,
+        "question": "I'm interested in no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q2",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q3",
+        "run_id": 3,
+        "question": "I feel able to act concretely for no poverty",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q4",
+        "run_id": 3,
+        "question": "I'm interested in zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q5",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q6",
+        "run_id": 3,
+        "question": "I feel able to act concretely for zero hunger",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q7",
+        "run_id": 3,
+        "question": "I'm interested in good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q8",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q9",
+        "run_id": 3,
+        "question": "I feel able to act concretely for good health and well-being",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q10",
+        "run_id": 3,
+        "question": "I'm interested in quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q11",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q12",
+        "run_id": 3,
+        "question": "I feel able to act concretely for quality education",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q13",
+        "run_id": 3,
+        "question": "I'm interested in gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q14",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q15",
+        "run_id": 3,
+        "question": "I feel able to act concretely for gender equality",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q16",
+        "run_id": 3,
+        "question": "I'm interested in clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q17",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q18",
+        "run_id": 3,
+        "question": "I feel able to act concretely for clean water and sanitation",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q19",
+        "run_id": 3,
+        "question": "I'm interested in affordable and clean energy",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q20",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for affordable and clean energy",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q21",
+        "run_id": 3,
+        "question": "I feel able to act concretely for affordable and clean energy",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q22",
+        "run_id": 3,
+        "question": "I'm interested in decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q23",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q24",
+        "run_id": 3,
+        "question": "I feel able to act concretely for decent work and economic growth",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q25",
+        "run_id": 3,
+        "question": "I'm interested in industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q26",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q27",
+        "run_id": 3,
+        "question": "I feel able to act concretely for industry, innovation and infrastructure",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q28",
+        "run_id": 3,
+        "question": "I'm interested in reduced inequalities",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q29",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for reduced inequalities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q30",
+        "run_id": 3,
+        "question": "I feel able to act concretely for reduced inequalities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q31",
+        "run_id": 3,
+        "question": "I'm interested in sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q32",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q33",
+        "run_id": 3,
+        "question": "I feel able to act concretely for sustainable cities and communities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q34",
+        "run_id": 3,
+        "question": "I'm interested in responsible consumption and production",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q35",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q36",
+        "run_id": 3,
+        "question": "I feel able to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q37",
+        "run_id": 3,
+        "question": "I'm interested in climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q38",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q39",
+        "run_id": 3,
+        "question": "I feel able to act concretely for climate action",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q40",
+        "run_id": 3,
+        "question": "I'm interested in life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q41",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q42",
+        "run_id": 3,
+        "question": "I feel able to act concretely for life below water",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q43",
+        "run_id": 3,
+        "question": "I'm interested in life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q44",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q45",
+        "run_id": 3,
+        "question": "I feel able to act concretely for life on land",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q46",
+        "run_id": 3,
+        "question": "I'm interested in peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q47",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q48",
+        "run_id": 3,
+        "question": "I feel able to act concretely for peace, justice and strong institutions",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q49",
+        "run_id": 3,
+        "question": "I'm interested in partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q50",
+        "run_id": 3,
+        "question": "I'm motivated to act concretely for partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q51",
+        "run_id": 3,
+        "question": "I feel able to act concretely for partnerships for the goals",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q1",
+        "run_id": 4,
+        "question": "I'm interested in no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q2",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for no poverty",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q3",
+        "run_id": 4,
+        "question": "I feel able to act concretely for no poverty",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q4",
+        "run_id": 4,
+        "question": "I'm interested in zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q5",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for zero hunger",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q6",
+        "run_id": 4,
+        "question": "I feel able to act concretely for zero hunger",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q7",
+        "run_id": 4,
+        "question": "I'm interested in good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q8",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for good health and well-being",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q9",
+        "run_id": 4,
+        "question": "I feel able to act concretely for good health and well-being",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q10",
+        "run_id": 4,
+        "question": "I'm interested in quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q11",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for quality education",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q12",
+        "run_id": 4,
+        "question": "I feel able to act concretely for quality education",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q13",
+        "run_id": 4,
+        "question": "I'm interested in gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q14",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for gender equality",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q15",
+        "run_id": 4,
+        "question": "I feel able to act concretely for gender equality",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q16",
+        "run_id": 4,
+        "question": "I'm interested in clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q17",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for clean water and sanitation",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q18",
+        "run_id": 4,
+        "question": "I feel able to act concretely for clean water and sanitation",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q19",
+        "run_id": 4,
+        "question": "I'm interested in affordable and clean energy",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q20",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for affordable and clean energy",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q21",
+        "run_id": 4,
+        "question": "I feel able to act concretely for affordable and clean energy",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q22",
+        "run_id": 4,
+        "question": "I'm interested in decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q23",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for decent work and economic growth",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q24",
+        "run_id": 4,
+        "question": "I feel able to act concretely for decent work and economic growth",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q25",
+        "run_id": 4,
+        "question": "I'm interested in industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 5,
+            "total_tokens": 138
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q26",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for industry, innovation and infrastructure",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q27",
+        "run_id": 4,
+        "question": "I feel able to act concretely for industry, innovation and infrastructure",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 138,
+            "output_tokens": 5,
+            "total_tokens": 143
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q28",
+        "run_id": 4,
+        "question": "I'm interested in reduced inequalities",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q29",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for reduced inequalities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q30",
+        "run_id": 4,
+        "question": "I feel able to act concretely for reduced inequalities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q31",
+        "run_id": 4,
+        "question": "I'm interested in sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q32",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for sustainable cities and communities",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q33",
+        "run_id": 4,
+        "question": "I feel able to act concretely for sustainable cities and communities",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q34",
+        "run_id": 4,
+        "question": "I'm interested in responsible consumption and production",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q35",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q36",
+        "run_id": 4,
+        "question": "I feel able to act concretely for responsible consumption and production",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q37",
+        "run_id": 4,
+        "question": "I'm interested in climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 130,
+            "output_tokens": 5,
+            "total_tokens": 135
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q38",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for climate action",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q39",
+        "run_id": 4,
+        "question": "I feel able to act concretely for climate action",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 135,
+            "output_tokens": 5,
+            "total_tokens": 140
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q40",
+        "run_id": 4,
+        "question": "I'm interested in life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q41",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for life below water",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q42",
+        "run_id": 4,
+        "question": "I feel able to act concretely for life below water",
+        "response_content": "2",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q43",
+        "run_id": 4,
+        "question": "I'm interested in life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 131,
+            "output_tokens": 5,
+            "total_tokens": 136
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q44",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for life on land",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q45",
+        "run_id": 4,
+        "question": "I feel able to act concretely for life on land",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 136,
+            "output_tokens": 5,
+            "total_tokens": 141
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q46",
+        "run_id": 4,
+        "question": "I'm interested in peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 5,
+            "total_tokens": 139
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q47",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for peace, justice and strong institutions",
+        "response_content": "5",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q48",
+        "run_id": 4,
+        "question": "I feel able to act concretely for peace, justice and strong institutions",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 139,
+            "output_tokens": 5,
+            "total_tokens": 144
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q49",
+        "run_id": 4,
+        "question": "I'm interested in partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 132,
+            "output_tokens": 5,
+            "total_tokens": 137
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q50",
+        "run_id": 4,
+        "question": "I'm motivated to act concretely for partnerships for the goals",
+        "response_content": "4",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    },
+    {
+        "question_id": "SDGPI_Q51",
+        "run_id": 4,
+        "question": "I feel able to act concretely for partnerships for the goals",
+        "response_content": "3",
+        "usage_metadata": {
+            "input_tokens": 137,
+            "output_tokens": 5,
+            "total_tokens": 142
+        },
+        "model_name": "anthropic--claude-4-sonnet"
+    }
+]

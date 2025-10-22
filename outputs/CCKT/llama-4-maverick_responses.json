@@ -1,0 +1,2128 @@
+[
+    {
+        "question_id": "CCKT_Q1",
+        "question": "Climate change is real, that is, it is taking place",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q2",
+        "question": "Manifestations of climate change differ from one climatic region to another",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q3",
+        "question": "Climate change is inevitable because of the nature and style of the modern life",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q4",
+        "question": "Climate change is nothing else than natural fluctuation in temperatures of the Earth",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q5",
+        "question": "The human community can control climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q6",
+        "question": "Overall, climate change is bad; it is more harmful than beneficial",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q7",
+        "question": "Climate change is the tangible, long-term change in weather variables that is associated with the increases in the concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q8",
+        "question": "Scientific evidence on climate change is non-reliable",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q9",
+        "question": "The average minimum and maximum temperatures never increased anywhere on the Earth since 1900",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q10",
+        "question": "It is too late for the human community to do anything to stop climate change or reduce it",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 118,
+            "output_tokens": 1,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q11",
+        "question": "Environmental pollution resulting from industry is the main cause of climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q12",
+        "question": "Effect of human activities on temperatures of the surface of the Earth is not high",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q13",
+        "question": "Burning of fossil fuel like oil and coal contributes to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q14",
+        "question": "Deforestation is one of the causes of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q15",
+        "question": "The cause of climate change is the global warming associated with the increases in concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 123,
+            "output_tokens": 1,
+            "total_tokens": 124,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q16",
+        "question": "The transportation sector does not contribute substantially to climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q17",
+        "question": "Climate change resulted mainly from the ozone hole",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 2,
+            "total_tokens": 108,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q18",
+        "question": "Climate change is a result of natural processes like volcanoes rather than human activities",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q19",
+        "question": "Agricultural activities such as animal and plant production contribute to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q20",
+        "question": "The sector with the highest contribution to climate change is the energy sector",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q21",
+        "question": "Climate change causes biodiversity loss",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 104,
+            "output_tokens": 2,
+            "total_tokens": 106,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q22",
+        "question": "Climate change brings about drop in temperatures of the Earth all over the World",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q23",
+        "question": "Climate change leads to soil fertility increase",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q24",
+        "question": "The human community currently experiences the effects of climate change and suffers from them",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q25",
+        "question": "Rise in water level in seas and oceans and submergence of islands and adjacent lands are results of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q26",
+        "question": "Climate change leads to decrease in incidence of contagious and infectious plant, animal, and human diseases",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q27",
+        "question": "Decline in plant and animal food production, and, hence, deterioration of food security, may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 123,
+            "output_tokens": 2,
+            "total_tokens": 125,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q28",
+        "question": "Shortage of water that is suitable for domestic use and for irrigation of plants and animals may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 121,
+            "output_tokens": 2,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q29",
+        "question": "Climate change may cause an increase in the frequency and intensity of extreme weather conditions such as heat waves, drought, hurricanes, and heavy rains in some areas in the world",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 2,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q30",
+        "question": "Climate change contributes to increased wind and water erosion of soil",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 1,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick",
+        "run_id": 5
+    },
+    {
+        "question_id": "CCKT_Q1",
+        "run_id": 1,
+        "question": "Climate change is real, that is, it is taking place",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q2",
+        "run_id": 1,
+        "question": "Manifestations of climate change differ from one climatic region to another",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 2,
+            "total_tokens": 180,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q3",
+        "run_id": 1,
+        "question": "Climate change is inevitable because of the nature and style of the modern life",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q4",
+        "run_id": 1,
+        "question": "Climate change is nothing else than natural fluctuation in temperatures of the Earth",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q5",
+        "run_id": 1,
+        "question": "The human community can control climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 173,
+            "output_tokens": 2,
+            "total_tokens": 175,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q6",
+        "run_id": 1,
+        "question": "Overall, climate change is bad; it is more harmful than beneficial",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q7",
+        "run_id": 1,
+        "question": "Climate change is the tangible, long-term change in weather variables that is associated with the increases in the concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 129,
+            "output_tokens": 1,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q8",
+        "run_id": 1,
+        "question": "Scientific evidence on climate change is non-reliable",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 1,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q9",
+        "run_id": 1,
+        "question": "The average minimum and maximum temperatures never increased anywhere on the Earth since 1900",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q10",
+        "run_id": 1,
+        "question": "It is too late for the human community to do anything to stop climate change or reduce it",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q11",
+        "run_id": 1,
+        "question": "Environmental pollution resulting from industry is the main cause of climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q12",
+        "run_id": 1,
+        "question": "Effect of human activities on temperatures of the surface of the Earth is not high",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 181,
+            "output_tokens": 2,
+            "total_tokens": 183,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q13",
+        "run_id": 1,
+        "question": "Burning of fossil fuel like oil and coal contributes to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q14",
+        "run_id": 1,
+        "question": "Deforestation is one of the causes of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q15",
+        "run_id": 1,
+        "question": "The cause of climate change is the global warming associated with the increases in concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q16",
+        "run_id": 1,
+        "question": "The transportation sector does not contribute substantially to climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q17",
+        "run_id": 1,
+        "question": "Climate change resulted mainly from the ozone hole",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 2,
+            "total_tokens": 109,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q18",
+        "run_id": 1,
+        "question": "Climate change is a result of natural processes like volcanoes rather than human activities",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q19",
+        "run_id": 1,
+        "question": "Agricultural activities such as animal and plant production contribute to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q20",
+        "run_id": 1,
+        "question": "The sector with the highest contribution to climate change is the energy sector",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 1,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q21",
+        "run_id": 1,
+        "question": "Climate change causes biodiversity loss",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 104,
+            "output_tokens": 2,
+            "total_tokens": 106,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q22",
+        "run_id": 1,
+        "question": "Climate change brings about drop in temperatures of the Earth all over the World",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q23",
+        "run_id": 1,
+        "question": "Climate change leads to soil fertility increase",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 173,
+            "output_tokens": 2,
+            "total_tokens": 175,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q24",
+        "run_id": 1,
+        "question": "The human community currently experiences the effects of climate change and suffers from them",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q25",
+        "run_id": 1,
+        "question": "Rise in water level in seas and oceans and submergence of islands and adjacent lands are results of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q26",
+        "run_id": 1,
+        "question": "Climate change leads to decrease in incidence of contagious and infectious plant, animal, and human diseases",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q27",
+        "run_id": 1,
+        "question": "Decline in plant and animal food production, and, hence, deterioration of food security, may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 121,
+            "output_tokens": 2,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q28",
+        "run_id": 1,
+        "question": "Shortage of water that is suitable for domestic use and for irrigation of plants and animals may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 121,
+            "output_tokens": 2,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q29",
+        "run_id": 1,
+        "question": "Climate change may cause an increase in the frequency and intensity of extreme weather conditions such as heat waves, drought, hurricanes, and heavy rains in some areas in the world",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 200,
+            "output_tokens": 2,
+            "total_tokens": 202,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q30",
+        "run_id": 1,
+        "question": "Climate change contributes to increased wind and water erosion of soil",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q1",
+        "run_id": 2,
+        "question": "Climate change is real, that is, it is taking place",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q2",
+        "run_id": 2,
+        "question": "Manifestations of climate change differ from one climatic region to another",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q3",
+        "run_id": 2,
+        "question": "Climate change is inevitable because of the nature and style of the modern life",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q4",
+        "run_id": 2,
+        "question": "Climate change is nothing else than natural fluctuation in temperatures of the Earth",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 179,
+            "output_tokens": 2,
+            "total_tokens": 181,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q5",
+        "run_id": 2,
+        "question": "The human community can control climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q6",
+        "run_id": 2,
+        "question": "Overall, climate change is bad; it is more harmful than beneficial",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q7",
+        "run_id": 2,
+        "question": "Climate change is the tangible, long-term change in weather variables that is associated with the increases in the concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 128,
+            "output_tokens": 2,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q8",
+        "run_id": 2,
+        "question": "Scientific evidence on climate change is non-reliable",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q9",
+        "run_id": 2,
+        "question": "The average minimum and maximum temperatures never increased anywhere on the Earth since 1900",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 115,
+            "output_tokens": 2,
+            "total_tokens": 117,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q10",
+        "run_id": 2,
+        "question": "It is too late for the human community to do anything to stop climate change or reduce it",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q11",
+        "run_id": 2,
+        "question": "Environmental pollution resulting from industry is the main cause of climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q12",
+        "run_id": 2,
+        "question": "Effect of human activities on temperatures of the surface of the Earth is not high",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 181,
+            "output_tokens": 2,
+            "total_tokens": 183,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q13",
+        "run_id": 2,
+        "question": "Burning of fossil fuel like oil and coal contributes to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q14",
+        "run_id": 2,
+        "question": "Deforestation is one of the causes of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q15",
+        "run_id": 2,
+        "question": "The cause of climate change is the global warming associated with the increases in concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 121,
+            "output_tokens": 2,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q16",
+        "run_id": 2,
+        "question": "The transportation sector does not contribute substantially to climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q17",
+        "run_id": 2,
+        "question": "Climate change resulted mainly from the ozone hole",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 2,
+            "total_tokens": 108,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q18",
+        "run_id": 2,
+        "question": "Climate change is a result of natural processes like volcanoes rather than human activities",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q19",
+        "run_id": 2,
+        "question": "Agricultural activities such as animal and plant production contribute to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q20",
+        "run_id": 2,
+        "question": "The sector with the highest contribution to climate change is the energy sector",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 179,
+            "output_tokens": 2,
+            "total_tokens": 181,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q21",
+        "run_id": 2,
+        "question": "Climate change causes biodiversity loss",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 104,
+            "output_tokens": 2,
+            "total_tokens": 106,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q22",
+        "run_id": 2,
+        "question": "Climate change brings about drop in temperatures of the Earth all over the World",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q23",
+        "run_id": 2,
+        "question": "Climate change leads to soil fertility increase",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q24",
+        "run_id": 2,
+        "question": "The human community currently experiences the effects of climate change and suffers from them",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q25",
+        "run_id": 2,
+        "question": "Rise in water level in seas and oceans and submergence of islands and adjacent lands are results of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q26",
+        "run_id": 2,
+        "question": "Climate change leads to decrease in incidence of contagious and infectious plant, animal, and human diseases",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q27",
+        "run_id": 2,
+        "question": "Decline in plant and animal food production, and, hence, deterioration of food security, may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q28",
+        "run_id": 2,
+        "question": "Shortage of water that is suitable for domestic use and for irrigation of plants and animals may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q29",
+        "run_id": 2,
+        "question": "Climate change may cause an increase in the frequency and intensity of extreme weather conditions such as heat waves, drought, hurricanes, and heavy rains in some areas in the world",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 1,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q30",
+        "run_id": 2,
+        "question": "Climate change contributes to increased wind and water erosion of soil",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q1",
+        "run_id": 3,
+        "question": "Climate change is real, that is, it is taking place",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q2",
+        "run_id": 3,
+        "question": "Manifestations of climate change differ from one climatic region to another",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q3",
+        "run_id": 3,
+        "question": "Climate change is inevitable because of the nature and style of the modern life",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q4",
+        "run_id": 3,
+        "question": "Climate change is nothing else than natural fluctuation in temperatures of the Earth",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q5",
+        "run_id": 3,
+        "question": "The human community can control climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q6",
+        "run_id": 3,
+        "question": "Overall, climate change is bad; it is more harmful than beneficial",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q7",
+        "run_id": 3,
+        "question": "Climate change is the tangible, long-term change in weather variables that is associated with the increases in the concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 129,
+            "output_tokens": 1,
+            "total_tokens": 130,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q8",
+        "run_id": 3,
+        "question": "Scientific evidence on climate change is non-reliable",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q9",
+        "run_id": 3,
+        "question": "The average minimum and maximum temperatures never increased anywhere on the Earth since 1900",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q10",
+        "run_id": 3,
+        "question": "It is too late for the human community to do anything to stop climate change or reduce it",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q11",
+        "run_id": 3,
+        "question": "Environmental pollution resulting from industry is the main cause of climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q12",
+        "run_id": 3,
+        "question": "Effect of human activities on temperatures of the surface of the Earth is not high",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q13",
+        "run_id": 3,
+        "question": "Burning of fossil fuel like oil and coal contributes to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q14",
+        "run_id": 3,
+        "question": "Deforestation is one of the causes of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q15",
+        "run_id": 3,
+        "question": "The cause of climate change is the global warming associated with the increases in concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 121,
+            "output_tokens": 2,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q16",
+        "run_id": 3,
+        "question": "The transportation sector does not contribute substantially to climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q17",
+        "run_id": 3,
+        "question": "Climate change resulted mainly from the ozone hole",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 2,
+            "total_tokens": 108,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q18",
+        "run_id": 3,
+        "question": "Climate change is a result of natural processes like volcanoes rather than human activities",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q19",
+        "run_id": 3,
+        "question": "Agricultural activities such as animal and plant production contribute to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 2,
+            "total_tokens": 180,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q20",
+        "run_id": 3,
+        "question": "The sector with the highest contribution to climate change is the energy sector",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q21",
+        "run_id": 3,
+        "question": "Climate change causes biodiversity loss",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 104,
+            "output_tokens": 2,
+            "total_tokens": 106,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q22",
+        "run_id": 3,
+        "question": "Climate change brings about drop in temperatures of the Earth all over the World",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q23",
+        "run_id": 3,
+        "question": "Climate change leads to soil fertility increase",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 107,
+            "output_tokens": 1,
+            "total_tokens": 108,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q24",
+        "run_id": 3,
+        "question": "The human community currently experiences the effects of climate change and suffers from them",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 180,
+            "output_tokens": 2,
+            "total_tokens": 182,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q25",
+        "run_id": 3,
+        "question": "Rise in water level in seas and oceans and submergence of islands and adjacent lands are results of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 1,
+            "total_tokens": 123,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q26",
+        "run_id": 3,
+        "question": "Climate change leads to decrease in incidence of contagious and infectious plant, animal, and human diseases",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q27",
+        "run_id": 3,
+        "question": "Decline in plant and animal food production, and, hence, deterioration of food security, may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 189,
+            "output_tokens": 2,
+            "total_tokens": 191,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q28",
+        "run_id": 3,
+        "question": "Shortage of water that is suitable for domestic use and for irrigation of plants and animals may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 120,
+            "output_tokens": 2,
+            "total_tokens": 122,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q29",
+        "run_id": 3,
+        "question": "Climate change may cause an increase in the frequency and intensity of extreme weather conditions such as heat waves, drought, hurricanes, and heavy rains in some areas in the world",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 134,
+            "output_tokens": 1,
+            "total_tokens": 135,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q30",
+        "run_id": 3,
+        "question": "Climate change contributes to increased wind and water erosion of soil",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q1",
+        "run_id": 4,
+        "question": "Climate change is real, that is, it is taking place",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q2",
+        "run_id": 4,
+        "question": "Manifestations of climate change differ from one climatic region to another",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 110,
+            "output_tokens": 2,
+            "total_tokens": 112,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q3",
+        "run_id": 4,
+        "question": "Climate change is inevitable because of the nature and style of the modern life",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q4",
+        "run_id": 4,
+        "question": "Climate change is nothing else than natural fluctuation in temperatures of the Earth",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 2,
+            "total_tokens": 114,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q5",
+        "run_id": 4,
+        "question": "The human community can control climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 2,
+            "total_tokens": 108,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q6",
+        "run_id": 4,
+        "question": "Overall, climate change is bad; it is more harmful than beneficial",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q7",
+        "run_id": 4,
+        "question": "Climate change is the tangible, long-term change in weather variables that is associated with the increases in the concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 127,
+            "output_tokens": 2,
+            "total_tokens": 129,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q8",
+        "run_id": 4,
+        "question": "Scientific evidence on climate change is non-reliable",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 176,
+            "output_tokens": 2,
+            "total_tokens": 178,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q9",
+        "run_id": 4,
+        "question": "The average minimum and maximum temperatures never increased anywhere on the Earth since 1900",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 182,
+            "output_tokens": 2,
+            "total_tokens": 184,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q10",
+        "run_id": 4,
+        "question": "It is too late for the human community to do anything to stop climate change or reduce it",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 116,
+            "output_tokens": 2,
+            "total_tokens": 118,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q11",
+        "run_id": 4,
+        "question": "Environmental pollution resulting from industry is the main cause of climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q12",
+        "run_id": 4,
+        "question": "Effect of human activities on temperatures of the surface of the Earth is not high",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 114,
+            "output_tokens": 2,
+            "total_tokens": 116,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q13",
+        "run_id": 4,
+        "question": "Burning of fossil fuel like oil and coal contributes to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 178,
+            "output_tokens": 2,
+            "total_tokens": 180,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q14",
+        "run_id": 4,
+        "question": "Deforestation is one of the causes of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 108,
+            "output_tokens": 2,
+            "total_tokens": 110,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q15",
+        "run_id": 4,
+        "question": "The cause of climate change is the global warming associated with the increases in concentrations of the green house gases in the atmosphere",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 122,
+            "output_tokens": 2,
+            "total_tokens": 124,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q16",
+        "run_id": 4,
+        "question": "The transportation sector does not contribute substantially to climate change",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q17",
+        "run_id": 4,
+        "question": "Climate change resulted mainly from the ozone hole",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 106,
+            "output_tokens": 2,
+            "total_tokens": 108,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q18",
+        "run_id": 4,
+        "question": "Climate change is a result of natural processes like volcanoes rather than human activities",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q19",
+        "run_id": 4,
+        "question": "Agricultural activities such as animal and plant production contribute to climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 112,
+            "output_tokens": 1,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q20",
+        "run_id": 4,
+        "question": "The sector with the highest contribution to climate change is the energy sector",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 111,
+            "output_tokens": 2,
+            "total_tokens": 113,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q21",
+        "run_id": 4,
+        "question": "Climate change causes biodiversity loss",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 104,
+            "output_tokens": 2,
+            "total_tokens": 106,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q22",
+        "run_id": 4,
+        "question": "Climate change brings about drop in temperatures of the Earth all over the World",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q23",
+        "run_id": 4,
+        "question": "Climate change leads to soil fertility increase",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 105,
+            "output_tokens": 2,
+            "total_tokens": 107,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q24",
+        "run_id": 4,
+        "question": "The human community currently experiences the effects of climate change and suffers from them",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 113,
+            "output_tokens": 2,
+            "total_tokens": 115,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q25",
+        "run_id": 4,
+        "question": "Rise in water level in seas and oceans and submergence of islands and adjacent lands are results of climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 188,
+            "output_tokens": 2,
+            "total_tokens": 190,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q26",
+        "run_id": 4,
+        "question": "Climate change leads to decrease in incidence of contagious and infectious plant, animal, and human diseases",
+        "response_content": "false",
+        "usage_metadata": {
+            "input_tokens": 117,
+            "output_tokens": 2,
+            "total_tokens": 119,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q27",
+        "run_id": 4,
+        "question": "Decline in plant and animal food production, and, hence, deterioration of food security, may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 123,
+            "output_tokens": 2,
+            "total_tokens": 125,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q28",
+        "run_id": 4,
+        "question": "Shortage of water that is suitable for domestic use and for irrigation of plants and animals may result from climate change",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 121,
+            "output_tokens": 1,
+            "total_tokens": 122,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q29",
+        "run_id": 4,
+        "question": "Climate change may cause an increase in the frequency and intensity of extreme weather conditions such as heat waves, drought, hurricanes, and heavy rains in some areas in the world",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 133,
+            "output_tokens": 2,
+            "total_tokens": 135,
+            "input_token_details": {
+                "cache_read": 0
+            },
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    },
+    {
+        "question_id": "CCKT_Q30",
+        "run_id": 4,
+        "question": "Climate change contributes to increased wind and water erosion of soil",
+        "response_content": "true",
+        "usage_metadata": {
+            "input_tokens": 109,
+            "output_tokens": 2,
+            "total_tokens": 111,
+            "input_token_details": {},
+            "output_token_details": {}
+        },
+        "model_name": "llama-4-maverick"
+    }
+]
